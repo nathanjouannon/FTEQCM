@@ -25,5 +25,6 @@ export interface QCMSession {
   date: string;         // "2024-01-15"
   score: number;
   total: number;
+  passed?: boolean;
   answers: UserAnswer[];
 }
