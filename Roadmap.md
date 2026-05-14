@@ -16,7 +16,7 @@
 ---
 
 ## Étape 3 — Fondations du code
-- [ ] Créer les types TypeScript (`Question`, `Score`, `QCMSession`...)
+- [x] Créer les types TypeScript (`Question`, `Score`, `QCMSession`...)
 - [ ] Créer le hook `useLocalStorage.ts`
 - [ ] Créer le hook `useQCM.ts` (sélection aléatoire, navigation, calcul du score)
 
