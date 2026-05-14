@@ -196,6 +196,10 @@ export const useQCM = (): UseQCMReturn => {
       date: sessionStartTime.split("T")[0] ?? sessionStartTime,
       score: finalScore,
       total: questions.length,
+      passed:
+        questions.length === 0
+          ? false
+          : Math.round((finalScore / questions.length) * 100) >= PASSING_PERCENTAGE,
       answers: userAnswers,
     };
 
