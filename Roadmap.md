@@ -38,6 +38,6 @@
 ---
 
 ## Étape 6 — Mise en ligne
-- [ ] Push sur GitHub
-- [ ] Connecter le repo à Netlify
-- [ ] Vérifier le déploiement en production
+- [x] Push sur GitHub
+- [x] Connecter le repo à Netlify
+- [x] Vérifier le déploiement en production
