@@ -1195,6 +1195,2021 @@
       },
       "correctAnswer": "C",
       "explanation": "Le siège officiel du Parlement européen est à Strasbourg (France), où se tiennent les sessions plénières mensuelles. Des travaux complémentaires ont lieu à Bruxelles et le secrétariat général est à Luxembourg."
+    },
+    {
+    "id": 93,
+    "theme": "Droits et devoirs",
+    "question": "À quoi sert le droit de grève ?",
+    "options": {
+      "A": "À permettre aux salariés de défendre leurs intérêts professionnels en cessant le travail",
+      "B": "À permettre aux citoyens de refuser de payer leurs impôts",
+      "C": "À autoriser les employeurs à licencier leurs salariés sans motif",
+      "D": "À interdire toute négociation entre syndicats et employeurs"
+    },
+    "correctAnswer": "A",
+    "explanation": "Le droit de grève est un droit constitutionnel qui permet aux travailleurs de cesser collectivement le travail pour défendre leurs intérêts professionnels (salaires, conditions de travail, etc.)."
+  },
+  {
+    "id": 94,
+    "theme": "Droits et devoirs",
+    "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "options": {
+      "A": "Au nom de l'intérêt général et de l'ordre public",
+      "B": "Au nom des intérêts économiques des entreprises",
+      "C": "Au nom des croyances religieuses majoritaires",
+      "D": "Au nom des préférences du gouvernement en place"
+    },
+    "correctAnswer": "A",
+    "explanation": "L'État peut restreindre certaines libertés individuelles au nom de l'intérêt général et de l'ordre public, à condition que ces restrictions soient proportionnées et prévues par la loi."
+  },
+  {
+    "id": 95,
+    "theme": "Droits et devoirs",
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "options": {
+      "A": "\"La France est une République indivisible, laïque, démocratique et sociale.\"",
+      "B": "\"Le principe de toute souveraineté réside essentiellement dans la nation.\"",
+      "C": "\"Liberté, Égalité, Fraternité.\"",
+      "D": "\"Nul ne peut être condamné sans avoir été entendu.\""
+    },
+    "correctAnswer": "B",
+    "explanation": "L'article 3 de la DDHC de 1789 stipule que \"le principe de toute souveraineté réside essentiellement dans la nation\". Les autres formulations appartiennent à d'autres textes."
+  },
+  {
+    "id": 96,
+    "theme": "Droits et devoirs",
+    "question": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?",
+    "options": {
+      "A": "Chacun peut faire ce qu'il veut sans aucune limite",
+      "B": "La liberté individuelle s'arrête là où elle empiète sur la liberté ou les droits des autres",
+      "C": "L'État peut interdire toute action jugée dangereuse pour la société",
+      "D": "Seuls les droits collectifs priment sur les droits individuels"
+    },
+    "correctAnswer": "B",
+    "explanation": "Cet article pose le principe que la liberté de chacun est limitée par la liberté des autres : on est libre tant qu'on ne porte pas atteinte à autrui."
+  },
+  {
+    "id": 97,
+    "theme": "Droits et devoirs",
+    "question": "Que dit l'article 1er de la Constitution française ?",
+    "options": {
+      "A": "La France est une monarchie constitutionnelle",
+      "B": "La France est une République indivisible, laïque, démocratique et sociale",
+      "C": "Tout citoyen français a le droit de vote dès l'âge de 16 ans",
+      "D": "La souveraineté appartient au Président de la République"
+    },
+    "correctAnswer": "B",
+    "explanation": "L'article 1er de la Constitution du 4 octobre 1958 définit la France comme une \"République indivisible, laïque, démocratique et sociale\" qui assure l'égalité devant la loi de tous les citoyens."
+  },
+  {
+    "id": 98,
+    "theme": "Droits et devoirs",
+    "question": "Que garantit la liberté de la presse ?",
+    "options": {
+      "A": "Le droit pour les journalistes de ne jamais être poursuivis en justice",
+      "B": "Le droit de publier des informations sans censure préalable de l'État",
+      "C": "L'obligation pour l'État de financer tous les médias",
+      "D": "Le droit exclusif de l'État à diffuser l'information"
+    },
+    "correctAnswer": "B",
+    "explanation": "La liberté de la presse garantit que les journalistes et médias peuvent publier des informations sans autorisation ou censure préalable de l'État, tout en restant responsables de leurs écrits."
+  },
+  {
+    "id": 99,
+    "theme": "Droits et devoirs",
+    "question": "Que permet la liberté de circulation ?",
+    "options": {
+      "A": "De se déplacer librement uniquement dans sa région de résidence",
+      "B": "De se déplacer librement sur le territoire national et d'entrer et sortir du pays",
+      "C": "De voyager sans passeport dans tous les pays du monde",
+      "D": "De ne pas respecter les frontières nationales sans contrôle"
+    },
+    "correctAnswer": "B",
+    "explanation": "La liberté de circulation permet à chaque personne de se déplacer librement sur le territoire national, d'en partir et d'y revenir, sous réserve des règles légales en vigueur."
+  },
+  {
+    "id": 100,
+    "theme": "Droits et devoirs",
+    "question": "Que signifie être citoyen d'un État ?",
+    "options": {
+      "A": "Avoir uniquement des droits sans aucune obligation",
+      "B": "Résider sur le territoire d'un pays depuis plus de 5 ans",
+      "C": "Bénéficier de droits et assumer des devoirs vis-à-vis de la communauté nationale",
+      "D": "Être né sur le territoire national sans exception"
+    },
+    "correctAnswer": "C",
+    "explanation": "Être citoyen implique à la fois des droits (voter, être élu, liberté d'expression…) et des devoirs (respecter les lois, payer ses impôts, défendre le pays si nécessaire…)."
+  },
+  {
+    "id": 101,
+    "theme": "Droits et devoirs",
+    "question": "Que sont les droits fondamentaux ?",
+    "options": {
+      "A": "Des droits accordés uniquement aux fonctionnaires de l'État",
+      "B": "Des droits réservés aux citoyens français de naissance",
+      "C": "Des droits essentiels reconnus à toute personne humaine, garantis par la loi",
+      "D": "Des droits que l'on acquiert uniquement après avoir travaillé plusieurs années"
+    },
+    "correctAnswer": "C",
+    "explanation": "Les droits fondamentaux sont des droits essentiels et inaliénables reconnus à toute personne humaine (liberté, dignité, égalité…), garantis par la Constitution et les textes internationaux."
+  },
+  {
+    "id": 102,
+    "theme": "Droits et devoirs",
+    "question": "Quel droit protège une personne contre une arrestation arbitraire ?",
+    "options": {
+      "A": "La liberté de conscience",
+      "B": "La liberté individuelle et la sûreté",
+      "C": "Le droit de grève",
+      "D": "La liberté de circulation"
+    },
+    "correctAnswer": "B",
+    "explanation": "La liberté individuelle et la sûreté protègent toute personne contre une arrestation ou une détention arbitraire. Nul ne peut être arrêté sans motif légal."
+  },
+  {
+    "id": 103,
+    "theme": "Droits et devoirs",
+    "question": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+    "options": {
+      "A": "Le Code civil",
+      "B": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+      "C": "Le Préambule de la Constitution de 1946",
+      "D": "La Charte des Nations Unies"
+    },
+    "correctAnswer": "B",
+    "explanation": "La Déclaration des Droits de l'Homme et du Citoyen de 1789 est le texte fondateur qui proclame les droits naturels et civils des citoyens français. Elle a valeur constitutionnelle."
+  },
+  {
+    "id": 104,
+    "theme": "Droits et devoirs",
+    "question": "Quel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+    "options": {
+      "A": "La Constitution de 1958",
+      "B": "Le Code Napoléon de 1804",
+      "C": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+      "D": "Le Traité de Maastricht de 1992"
+    },
+    "correctAnswer": "C",
+    "explanation": "L'article 1er de la Déclaration des Droits de l'Homme et du Citoyen de 1789 affirme que \"les hommes naissent et demeurent libres et égaux en droits\"."
+  },
+  {
+    "id": 105,
+    "theme": "Droits et devoirs",
+    "question": "Quelle situation est une atteinte à la dignité humaine ?",
+    "options": {
+      "A": "Refuser de serrer la main d'une personne",
+      "B": "Soumettre une personne à des traitements dégradants ou inhumains",
+      "C": "Ne pas inviter quelqu'un à une réunion privée",
+      "D": "Critiquer les idées politiques d'un élu"
+    },
+    "correctAnswer": "B",
+    "explanation": "La dignité humaine est un droit fondamental. Soumettre une personne à des traitements dégradants, inhumains ou humiliants constitue une atteinte grave à ce droit, punie par la loi."
+  },
+  {
+    "id": 106,
+    "theme": "Droits et devoirs",
+    "question": "Qu'est-ce que la liberté d'expression ?",
+    "options": {
+      "A": "Le droit de dire ou écrire n'importe quoi sans aucune limite",
+      "B": "Le droit de communiquer librement ses opinions, dans le respect des droits d'autrui et de la loi",
+      "C": "Le droit exclusif des journalistes à s'exprimer publiquement",
+      "D": "L'interdiction de critiquer le gouvernement en place"
+    },
+    "correctAnswer": "B",
+    "explanation": "La liberté d'expression permet à chacun d'exprimer librement ses opinions, à l'oral ou à l'écrit, dans le respect de la loi (pas de diffamation, incitation à la haine, etc.)."
+  },
+  {
+    "id": 107,
+    "theme": "Droits et devoirs",
+    "question": "Suite à une interpellation par la police, il est possible de :",
+    "options": {
+      "A": "Refuser de donner son identité sans conséquence",
+      "B": "Être placé en garde à vue dans les conditions prévues par la loi",
+      "C": "Être emprisonné immédiatement sans jugement",
+      "D": "Quitter le commissariat à tout moment librement"
+    },
+    "correctAnswer": "B",
+    "explanation": "Suite à une interpellation, une personne peut être placée en garde à vue selon les conditions strictement encadrées par la loi (durée limitée, droit à un avocat, information des proches…)."
+  },
+  {
+    "id": 108,
+    "theme": "Droits et devoirs",
+    "question": "Tous les citoyens français ont-ils une religion ?",
+    "options": {
+      "A": "Oui, la France est un pays de tradition catholique obligatoire",
+      "B": "Non, chacun est libre de croire ou de ne pas croire grâce à la liberté de conscience",
+      "C": "Oui, mais uniquement les religions reconnues par l'État",
+      "D": "Non, la religion est interdite sur le territoire français"
+    },
+    "correctAnswer": "B",
+    "explanation": "En France, la liberté de conscience garantit à chacun le droit de croire ou de ne pas croire. L'État ne reconnaît ni n'impose aucune religion."
+  },
+  {
+    "id": 109,
+    "theme": "Droits et devoirs",
+    "question": "À quel âge est la majorité numérique en France ?",
+    "options": {
+      "A": "13 ans",
+      "B": "15 ans",
+      "C": "16 ans",
+      "D": "18 ans"
+    },
+    "correctAnswer": "C",
+    "explanation": "La majorité numérique en France est fixée à 15 ans par la loi du 7 juillet 2023. En dessous de cet âge, le consentement parental est nécessaire pour s'inscrire sur les réseaux sociaux."
+  },
+  {
+    "id": 110,
+    "theme": "Droits et devoirs",
+    "question": "Dans lequel de ces endroits est-on autorisé à fumer ?",
+    "options": {
+      "A": "Dans les transports en commun",
+      "B": "Dans les restaurants et cafés",
+      "C": "Dans un espace extérieur privé",
+      "D": "Dans les couloirs d'un hôpital"
+    },
+    "correctAnswer": "C",
+    "explanation": "Depuis 2008, il est interdit de fumer dans tous les lieux publics fermés. Fumer reste autorisé dans les espaces extérieur privés ou dans des zones fumeurs spécifiquement aménagées."
+  },
+  {
+    "id": 111,
+    "theme": "Droits et devoirs",
+    "question": "En France, la conduite sans permis d'une moto est :",
+    "options": {
+      "A": "Autorisée pour les motos de moins de 50 cm³",
+      "B": "Tolérée si la personne conduit depuis plus de 10 ans",
+      "C": "Un délit passible d'une amende et d'une peine d'emprisonnement",
+      "D": "Seulement interdite sur autoroute"
+    },
+    "correctAnswer": "C",
+    "explanation": "Conduire une moto sans permis est un délit en France, passible d'une amende pouvant atteindre 15 000 € et d'une peine d'emprisonnement d'un an."
+  },
+  {
+    "id": 112,
+    "theme": "Droits et devoirs",
+    "question": "En quoi consiste le devoir de solidarité ?",
+    "options": {
+      "A": "À voter obligatoirement à chaque élection",
+      "B": "À contribuer au bien commun et à aider les personnes en difficulté",
+      "C": "À effectuer un service militaire de deux ans",
+      "D": "À assister à toutes les cérémonies nationales"
+    },
+    "correctAnswer": "B",
+    "explanation": "Le devoir de solidarité consiste à contribuer au bien commun, notamment en payant ses impôts et cotisations sociales, et à porter assistance aux personnes en difficulté."
+  },
+  {
+    "id": 113,
+    "theme": "Droits et devoirs",
+    "question": "Est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "options": {
+      "A": "Oui, si les personnes concernées sont consentantes",
+      "B": "Oui, dans certaines régions de France",
+      "C": "Non, la bigamie est un délit en France",
+      "D": "Oui, si le mariage a été contracté à l'étranger"
+    },
+    "correctAnswer": "C",
+    "explanation": "La bigamie (fait d'être marié à plusieurs personnes simultanément) est un délit en France, puni d'un an d'emprisonnement et de 45 000 € d'amende."
+  },
+  {
+    "id": 114,
+    "theme": "Droits et devoirs",
+    "question": "Est-ce obligatoire de déclarer ses impôts chaque année en France ?",
+    "options": {
+      "A": "Non, uniquement si l'on gagne plus de 30 000 € par an",
+      "B": "Oui, c'est une obligation légale pour tous les contribuables",
+      "C": "Non, c'est facultatif si on n'a pas de revenus supplémentaires",
+      "D": "Oui, mais uniquement pour les personnes travaillant dans le secteur public"
+    },
+    "correctAnswer": "B",
+    "explanation": "La déclaration annuelle des revenus est une obligation légale pour tous les contribuables résidant en France. Ne pas déclarer ses revenus est passible de sanctions."
+  },
+  {
+    "id": 115,
+    "theme": "Droits et devoirs",
+    "question": "Est-il obligatoire de porter secours à une personne en danger ?",
+    "options": {
+      "A": "Non, c'est uniquement un acte moral et volontaire",
+      "B": "Oui, sous peine de sanctions pénales",
+      "C": "Oui, mais uniquement pour les professionnels de santé",
+      "D": "Non, sauf si la personne en danger est un proche"
+    },
+    "correctAnswer": "B",
+    "explanation": "En France, le non-assistance à personne en danger est un délit (article 223-6 du Code pénal). Toute personne ayant connaissance d'un danger est tenue de porter secours ou d'alerter les secours."
+  },
+  {
+    "id": 116,
+    "theme": "Droits et devoirs",
+    "question": "Être juré d'assises est :",
+    "options": {
+      "A": "Un droit auquel on peut renoncer librement",
+      "B": "Réservé aux avocats et aux juristes",
+      "C": "Un devoir civique obligatoire sauf motif légitime",
+      "D": "Une mission réservée aux fonctionnaires de l'État"
+    },
+    "correctAnswer": "C",
+    "explanation": "Être juré d'assises est un devoir civique. Tout citoyen français majeur tiré au sort peut être convoqué. Le refus sans motif légitime est passible d'une amende."
+  },
+  {
+    "id": 117,
+    "theme": "Droits et devoirs",
+    "question": "La vente d'alcool en France est interdite aux personnes de moins de :",
+    "options": {
+      "A": "16 ans",
+      "B": "18 ans",
+      "C": "21 ans",
+      "D": "25 ans"
+    },
+    "correctAnswer": "B",
+    "explanation": "La vente et la consommation d'alcool sont interdites aux mineurs de moins de 18 ans en France. Les commerçants qui ne respectent pas cette règle s'exposent à des sanctions."
+  },
+  {
+    "id": 118,
+    "theme": "Droits et devoirs",
+    "question": "Le non-respect du code de la route est :",
+    "options": {
+      "A": "Une simple faute morale sans conséquence juridique",
+      "B": "Toléré tant qu'il n'y a pas d'accident",
+      "C": "Passible d'amendes, de retraits de points ou de peines d'emprisonnement selon la gravité",
+      "D": "Puni uniquement par un avertissement lors de la première infraction"
+    },
+    "correctAnswer": "C",
+    "explanation": "Le non-respect du code de la route est une infraction légale. Les sanctions varient selon la gravité : amende, retrait de points, suspension ou annulation du permis, voire emprisonnement."
+  },
+  {
+    "id": 119,
+    "theme": "Droits et devoirs",
+    "question": "Lequel de ces crimes ou délits peut entraîner la privation des droits civils et politiques par un juge ?",
+    "options": {
+      "A": "Une contravention pour stationnement interdit",
+      "B": "Un retard dans la déclaration de revenus",
+      "C": "Une condamnation pour crime ou délit grave",
+      "D": "Un désaccord avec une décision administrative"
+    },
+    "correctAnswer": "C",
+    "explanation": "Un juge peut prononcer la privation des droits civils et politiques (comme le droit de vote ou d'être élu) à titre de peine complémentaire lors d'une condamnation pour crime ou délit grave."
+  },
+  {
+    "id": 120,
+    "theme": "Droits et devoirs",
+    "question": "Pour obtenir une carte d'identité, il faut :",
+    "options": {
+      "A": "Être propriétaire d'un logement en France",
+      "B": "Être de nationalité française et fournir les justificatifs requis",
+      "C": "Avoir résidé en France depuis au moins 10 ans",
+      "D": "Avoir plus de 18 ans obligatoirement"
+    },
+    "correctAnswer": "B",
+    "explanation": "La carte nationale d'identité est réservée aux ressortissants français. Elle est délivrée sur présentation de justificatifs (état civil, domicile, photo). Elle peut être obtenue dès la naissance."
+  },
+  {
+    "id": 121,
+    "theme": "Droits et devoirs",
+    "question": "Pour quel motif peut-on limiter la liberté d'expression ?",
+    "options": {
+      "A": "Pour protéger les intérêts commerciaux des entreprises",
+      "B": "Pour éviter toute critique envers le gouvernement",
+      "C": "Pour prévenir les incitations à la haine, la diffamation ou les atteintes à l'ordre public",
+      "D": "Pour empêcher la diffusion d'opinions minoritaires"
+    },
+    "correctAnswer": "C",
+    "explanation": "La liberté d'expression n'est pas absolue. Elle peut être limitée légalement pour prévenir les discours de haine, la diffamation, l'incitation à la violence ou les atteintes à la sécurité nationale."
+  },
+  {
+    "id": 122,
+    "theme": "Droits et devoirs",
+    "question": "Que doit faire un citoyen s'il est appelé à être juré dans un procès d'assises ?",
+    "options": {
+      "A": "Refuser systématiquement car ce n'est pas une obligation",
+      "B": "Répondre à la convocation et participer au jury sauf motif légitime",
+      "C": "Payer une somme d'argent pour être exempté",
+      "D": "Demander à un autre citoyen de le remplacer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Lorsqu'un citoyen est tiré au sort pour être juré d'assises, il est tenu de répondre à la convocation et de participer au procès. Un refus sans motif légitime est sanctionné par une amende."
+  },
+  {
+    "id": 123,
+    "theme": "Droits et devoirs",
+    "question": "Quel est l'âge de la majorité civile en France ?",
+    "options": {
+      "A": "16 ans",
+      "B": "17 ans",
+      "C": "18 ans",
+      "D": "21 ans"
+    },
+    "correctAnswer": "C",
+    "explanation": "En France, la majorité civile est fixée à 18 ans. À partir de cet âge, une personne est considérée juridiquement adulte et peut exercer pleinement ses droits civils et politiques."
+  },
+  {
+    "id": 124,
+    "theme": "Droits et devoirs",
+    "question": "Quel est l'un des devoirs principaux d'un citoyen français ?",
+    "options": {
+      "A": "Adhérer à un parti politique",
+      "B": "Participer aux cérémonies nationales",
+      "C": "Respecter les lois et payer ses impôts",
+      "D": "Posséder un logement sur le territoire français"
+    },
+    "correctAnswer": "C",
+    "explanation": "Parmi les devoirs fondamentaux du citoyen français figurent le respect des lois, le paiement des impôts et des cotisations sociales, et la participation à la vie démocratique."
+  },
+  {
+    "id": 125,
+    "theme": "Droits et devoirs",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "options": {
+      "A": "La contravention",
+      "B": "Le délit",
+      "C": "Le crime",
+      "D": "L'incivilité"
+    },
+    "correctAnswer": "C",
+    "explanation": "En droit français, les infractions sont classées par ordre de gravité : contravention (la moins grave), délit, et crime (la plus grave). Les crimes sont jugés par la Cour d'assises."
+  },
+  {
+    "id": 126,
+    "theme": "Droits et devoirs",
+    "question": "Qu'est-ce que la citoyenneté numérique ?",
+    "options": {
+      "A": "L'obligation de posséder un ordinateur pour voter",
+      "B": "L'utilisation responsable et éclairée des outils numériques dans le respect des droits et des lois",
+      "C": "Le droit exclusif de l'État à contrôler internet",
+      "D": "La suppression des droits civils pour les utilisateurs d'internet"
+    },
+    "correctAnswer": "B",
+    "explanation": "La citoyenneté numérique désigne l'ensemble des droits et devoirs liés à l'utilisation des outils numériques : respect de la vie privée, lutte contre la désinformation, comportement responsable en ligne."
+  },
+  {
+    "id": 127,
+    "theme": "Droits et devoirs",
+    "question": "Qu'est-ce que le devoir de mémoire ?",
+    "options": {
+      "A": "L'obligation d'apprendre par cœur les textes officiels de la République",
+      "B": "Le devoir de se souvenir et de transmettre les événements historiques, notamment les tragédies, pour ne pas les répéter",
+      "C": "L'interdiction de parler des événements douloureux de l'histoire",
+      "D": "L'obligation de commémorer uniquement les victoires militaires françaises"
+    },
+    "correctAnswer": "B",
+    "explanation": "Le devoir de mémoire est l'obligation morale de se souvenir des événements historiques tragiques (génocides, guerres, résistance…) et de les transmettre aux générations futures pour éviter leur répétition."
+  },
+  {
+    "id": 128,
+    "theme": "Droits et devoirs",
+    "question": "Une personne est privée de ses droits civils et politiques pendant 5 ans suite à une condamnation. Parmi ces propositions laquelle est correcte ? Pendant 5 ans,...",
+    "options": {
+      "A": "Elle peut voter mais ne peut pas se présenter à une élection",
+      "B": "Elle ne peut ni voter, ni se présenter à une élection, ni exercer certaines fonctions publiques",
+      "C": "Elle perd uniquement son droit à la nationalité française",
+      "D": "Elle peut continuer à exercer toutes ses activités professionnelles sans restriction"
+    },
+    "correctAnswer": "B",
+    "explanation": "La privation des droits civils et politiques prononcée par un juge entraîne l'impossibilité de voter, de se présenter à des élections et d'exercer certaines fonctions publiques pendant la durée de la peine."
+  },
+  {
+      "id": 129,
+      "theme": "Histoire, géographie et culture",
+      "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?",
+      "options": {
+        "A": "La Déclaration des Droits de l'Homme et du Citoyen",
+        "B": "Le Code civil",
+        "C": "La Constitution de la Ve République",
+        "D": "La Déclaration universelle des droits de l'homme"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le Code civil (aussi appelé Code Napoléon) a été adopté en 1804 sous Napoléon Ier. Il constitue encore aujourd'hui la base du droit civil français."
+    },
+    {
+      "id": 130,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui a été président de la Ve République ?",
+      "options": {
+        "A": "Louis XVI",
+        "B": "Napoléon Bonaparte",
+        "C": "Charles de Gaulle",
+        "D": "Léon Blum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Charles de Gaulle a été le premier président de la Ve République, élu en 1958. Il a dirigé la France jusqu'en 1969."
+    },
+    {
+      "id": 131,
+      "theme": "Histoire, géographie et culture",
+      "question": "Que signifie la date du 14 juillet pour les Français ?",
+      "options": {
+        "A": "L'anniversaire de la naissance de Napoléon",
+        "B": "La fête nationale commémorant la prise de la Bastille en 1789",
+        "C": "La signature de la Constitution de la Ve République",
+        "D": "La fin de la Seconde Guerre mondiale"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille le 14 juillet 1789, symbole du début de la Révolution française."
+    },
+    {
+      "id": 132,
+      "theme": "Histoire, géographie et culture",
+      "question": "Lequel de ces pays est un pays fondateur de l'Union Européenne ?",
+      "options": {
+        "A": "La Pologne",
+        "B": "L'Espagne",
+        "C": "L'Allemagne",
+        "D": "La Suède"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'Allemagne (alors Allemagne de l'Ouest) est l'un des six pays fondateurs de la construction européenne, avec la France, l'Italie, la Belgique, les Pays-Bas et le Luxembourg."
+    },
+    {
+      "id": 133,
+      "theme": "Histoire, géographie et culture",
+      "question": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?",
+      "options": {
+        "A": "La Bretagne",
+        "B": "La Normandie",
+        "C": "Les Pays de la Loire",
+        "D": "La Picardie"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le débarquement allié du 6 juin 1944 (Jour J) a eu lieu sur les plages de Normandie. C'est le début de la libération de la France et de l'Europe occidentale."
+    },
+    {
+      "id": 134,
+      "theme": "Histoire, géographie et culture",
+      "question": "Dans quelle ville les rois de France étaient-ils couronnés ?",
+      "options": {
+        "A": "Paris",
+        "B": "Versailles",
+        "C": "Reims",
+        "D": "Orléans"
+      },
+      "correctAnswer": "C",
+      "explanation": "La cathédrale de Reims était le lieu traditionnel du sacre des rois de France. Presque tous les rois de France y ont été couronnés depuis Clovis."
+    },
+    {
+      "id": 135,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+      "options": {
+        "A": "Louis XIV",
+        "B": "Louis XV",
+        "C": "Louis XVI",
+        "D": "Charles X"
+      },
+      "correctAnswer": "C",
+      "explanation": "Louis XVI a été guillotiné le 21 janvier 1793 sur la place de la Révolution (aujourd'hui place de la Concorde) à Paris, pendant la Révolution française."
+    },
+    {
+      "id": 136,
+      "theme": "Histoire, géographie et culture",
+      "question": "En quelle année a débuté la Révolution française ?",
+      "options": {
+        "A": "1769",
+        "B": "1789",
+        "C": "1799",
+        "D": "1815"
+      },
+      "correctAnswer": "B",
+      "explanation": "La Révolution française a débuté en 1789, notamment avec la prise de la Bastille le 14 juillet 1789."
+    },
+    {
+      "id": 137,
+      "theme": "Histoire, géographie et culture",
+      "question": "En quelle année Napoléon Ier est-il devenu empereur ?",
+      "options": {
+        "A": "1799",
+        "B": "1802",
+        "C": "1804",
+        "D": "1812"
+      },
+      "correctAnswer": "C",
+      "explanation": "Napoléon Bonaparte est sacré empereur des Français le 2 décembre 1804 à Notre-Dame de Paris, en présence du pape Pie VII."
+    },
+    {
+      "id": 138,
+      "theme": "Histoire, géographie et culture",
+      "question": "Lequel de ces personnages a un lien avec la République française ?",
+      "options": {
+        "A": "Marianne",
+        "B": "Jeanne d'Arc",
+        "C": "Marie-Antoinette",
+        "D": "Napoléon III"
+      },
+      "correctAnswer": "A",
+      "explanation": "Marianne est le symbole de la République française. Elle représente la liberté et la raison, et son buste orne toutes les mairies de France."
+    },
+    {
+      "id": 139,
+      "theme": "Histoire, géographie et culture",
+      "question": "De quand date l'appel à la résistance du général de Gaulle ?",
+      "options": {
+        "A": "Le 8 mai 1945",
+        "B": "Le 18 juin 1940",
+        "C": "Le 6 juin 1944",
+        "D": "Le 11 novembre 1918"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 18 juin 1940, depuis Londres, le général de Gaulle lance son célèbre appel à la résistance sur les ondes de la BBC, refusant la capitulation face à l'Allemagne nazie."
+    },
+    {
+      "id": 140,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qu'est-ce que la Shoah ?",
+      "options": {
+        "A": "Le nom du traité de paix de la Première Guerre mondiale",
+        "B": "L'extermination systématique des Juifs d'Europe par les nazis",
+        "C": "La résistance française durant la Seconde Guerre mondiale",
+        "D": "Le bombardement de Londres par l'Allemagne nazie"
+      },
+      "correctAnswer": "B",
+      "explanation": "La Shoah désigne le génocide des Juifs d'Europe perpétré par le régime nazi pendant la Seconde Guerre mondiale. Environ 6 millions de Juifs ont été assassinés."
+    },
+    {
+      "id": 141,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel pays a été une colonie française ?",
+      "options": {
+        "A": "Le Brésil",
+        "B": "Le Mexique",
+        "C": "Le Sénégal",
+        "D": "L'Angola"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le Sénégal a été une colonie française. Il a obtenu son indépendance le 4 avril 1960. La France a eu un vaste empire colonial en Afrique, en Asie et en Amérique."
+    },
+    {
+      "id": 142,
+      "theme": "Histoire, géographie et culture",
+      "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+      "options": {
+        "A": "Depuis 1848",
+        "B": "Depuis 1958",
+        "C": "Depuis 1962",
+        "D": "Depuis 1969"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depuis la révision constitutionnelle de 1962, initiée par de Gaulle, les Français élisent leur président au suffrage universel direct. La première élection de ce type a eu lieu en 1965."
+    },
+    {
+      "id": 143,
+      "theme": "Histoire, géographie et culture",
+      "question": "En quelle année l'Union européenne a-t-elle été fondée ?",
+      "options": {
+        "A": "1957",
+        "B": "1992",
+        "C": "1999",
+        "D": "2004"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'Union européenne a été fondée en 1992 avec la signature du traité de Maastricht. Auparavant, on parlait de Communauté économique européenne (CEE), créée en 1957."
+    },
+    {
+      "id": 144,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+      "options": {
+        "A": "De 1914 à 1918",
+        "B": "De 1939 à 1945",
+        "C": "De 1936 à 1944",
+        "D": "De 1940 à 1946"
+      },
+      "correctAnswer": "B",
+      "explanation": "La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. Elle a débuté le 1er septembre 1939 avec l'invasion de la Pologne par l'Allemagne nazie et s'est terminée en mai 1945 en Europe."
+    },
+    {
+      "id": 145,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quand a eu lieu la Première Guerre mondiale ?",
+      "options": {
+        "A": "De 1910 à 1916",
+        "B": "De 1912 à 1918",
+        "C": "De 1914 à 1918",
+        "D": "De 1916 à 1920"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Première Guerre mondiale s'est déroulée de 1914 à 1918. Elle a fait environ 18 millions de morts et s'est terminée avec l'armistice du 11 novembre 1918."
+    },
+    {
+      "id": 146,
+      "theme": "Histoire, géographie et culture",
+      "question": "Sous quel président a été abolie la peine de mort en France ?",
+      "options": {
+        "A": "Georges Pompidou",
+        "B": "Valéry Giscard d'Estaing",
+        "C": "François Mitterrand",
+        "D": "Jacques Chirac"
+      },
+      "correctAnswer": "C",
+      "explanation": "La peine de mort a été abolie en France le 9 octobre 1981, sous la présidence de François Mitterrand. Le garde des Sceaux Robert Badinter a porté cette réforme."
+    },
+    {
+      "id": 147,
+      "theme": "Histoire, géographie et culture",
+      "question": "Que célèbre-t-on le 8 mai ?",
+      "options": {
+        "A": "La fête nationale française",
+        "B": "La victoire des Alliés sur l'Allemagne nazie en 1945",
+        "C": "L'armistice de la Première Guerre mondiale",
+        "D": "Le débarquement en Normandie"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 8 mai est jour férié en France. Il commémore la victoire des Alliés sur l'Allemagne nazie et la fin de la Seconde Guerre mondiale en Europe, le 8 mai 1945."
+    },
+    {
+      "id": 148,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle est la première étape de la construction européenne en 1951 ?",
+      "options": {
+        "A": "La création de l'OTAN",
+        "B": "La création de la Communauté européenne du charbon et de l'acier (CECA)",
+        "C": "La signature du traité de Rome",
+        "D": "La création de l'euro"
+      },
+      "correctAnswer": "B",
+      "explanation": "La CECA (Communauté européenne du charbon et de l'acier) a été créée en 1951 par le traité de Paris. Elle réunissait 6 pays et constitue la première pierre de la construction européenne."
+    },
+    {
+      "id": 149,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+      "options": {
+        "A": "Philippe Pétain",
+        "B": "Jean Moulin",
+        "C": "Pierre Laval",
+        "D": "Ferdinand Foch"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jean Moulin est l'une des figures les plus emblématiques de la Résistance française. Il a unifié les mouvements de résistance sous l'autorité du général de Gaulle avant d'être arrêté et tué par la Gestapo en 1943."
+    },
+    {
+      "id": 150,
+      "theme": "Histoire, géographie et culture",
+      "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+      "options": {
+        "A": "La fin de la Seconde Guerre mondiale",
+        "B": "L'armistice mettant fin à la Première Guerre mondiale en 1918",
+        "C": "La commémoration du débarquement allié",
+        "D": "La fête nationale française"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 11 novembre commémore l'armistice signé le 11 novembre 1918 à 11h, mettant fin à la Première Guerre mondiale. C'est un jour de souvenir pour les soldats morts pour la France."
+    },
+    {
+      "id": 151,
+      "theme": "Histoire, géographie et culture",
+      "question": "Depuis quand l'esclavage a-t-il été aboli en France ?",
+      "options": {
+        "A": "1794, puis définitivement en 1848",
+        "B": "1789",
+        "C": "1815",
+        "D": "1870"
+      },
+      "correctAnswer": "A",
+      "explanation": "L'esclavage a été aboli une première fois en 1794 sous la Révolution, puis rétabli par Napoléon en 1802. Il a été définitivement aboli le 27 avril 1848, sous la IIe République, par Victor Schoelcher."
+    },
+    {
+      "id": 152,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui a aboli l'esclavage en France ?",
+      "options": {
+        "A": "Napoléon Bonaparte",
+        "B": "Victor Hugo",
+        "C": "Victor Schoelcher",
+        "D": "Léon Gambetta"
+      },
+      "correctAnswer": "C",
+      "explanation": "Victor Schoelcher, député et militant abolitionniste, est à l'origine du décret du 27 avril 1848 qui a définitivement aboli l'esclavage dans les colonies françaises."
+    },
+    {
+      "id": 153,
+      "theme": "Histoire, géographie et culture",
+      "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+      "options": {
+        "A": "1789",
+        "B": "1848",
+        "C": "1881",
+        "D": "1905"
+      },
+      "correctAnswer": "C",
+      "explanation": "La loi Ferry de 1881 a rendu l'école primaire publique gratuite en France. En 1882, elle est également devenue obligatoire et laïque, grâce aux réformes de Jules Ferry."
+    },
+    {
+      "id": 154,
+      "theme": "Histoire, géographie et culture",
+      "question": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+      "options": {
+        "A": "Elles ont obtenu le droit de travailler sans autorisation du mari",
+        "B": "Elles ont obtenu le droit de vote",
+        "C": "Elles ont obtenu le droit à l'éducation",
+        "D": "Elles ont obtenu le droit de divorcer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le droit de vote a été accordé aux femmes françaises par l'ordonnance du 21 avril 1944 du général de Gaulle. Les femmes ont voté pour la première fois aux élections municipales d'avril 1945."
+    },
+    {
+      "id": 155,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle organisation a été créée en 1945 après la Seconde Guerre mondiale ?",
+      "options": {
+        "A": "L'Union européenne",
+        "B": "L'OTAN",
+        "C": "L'Organisation des Nations Unies (ONU)",
+        "D": "Le Fonds Monétaire International"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'ONU (Organisation des Nations Unies) a été créée le 24 octobre 1945, après la Seconde Guerre mondiale, pour maintenir la paix et la sécurité internationale. La France en est membre fondateur et membre permanent du Conseil de sécurité."
+    },
+    {
+      "id": 156,
+      "theme": "Histoire, géographie et culture",
+      "question": "En quelle année l'euro est-il devenu la monnaie officielle de la France ?",
+      "options": {
+        "A": "1992",
+        "B": "1999",
+        "C": "2002",
+        "D": "2004"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'euro est devenu la monnaie officielle et les pièces et billets en euros ont remplacé le franc français le 1er janvier 2002, même si l'euro existait comme monnaie scripturale depuis 1999."
+    },
+    {
+      "id": 157,
+      "theme": "Histoire, géographie et culture",
+      "question": "Lors de la Seconde Guerre mondiale, à quelle date la ville de Paris a-t-elle été libérée ?",
+      "options": {
+        "A": "Le 6 juin 1944",
+        "B": "Le 25 août 1944",
+        "C": "Le 8 mai 1945",
+        "D": "Le 18 juin 1944"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paris a été libérée le 25 août 1944, après quatre ans d'occupation allemande. Le général Leclerc et les Forces françaises libres ont joué un rôle majeur dans cette libération."
+    },
+    {
+      "id": 158,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel était le principal port français impliqué dans la traite négrière au XVIIIe siècle ?",
+      "options": {
+        "A": "Marseille",
+        "B": "Bordeaux",
+        "C": "Nantes",
+        "D": "Le Havre"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nantes était le principal port négrier français au XVIIIe siècle. La ville a armé près de 1 800 expéditions négrières, transportant environ 450 000 personnes réduites en esclavage."
+    },
+    {
+      "id": 159,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel célèbre philosophe des Lumières a dénoncé l'esclavage ?",
+      "options": {
+        "A": "Descartes",
+        "B": "Montesquieu",
+        "C": "Voltaire",
+        "D": "Rousseau"
+      },
+      "correctAnswer": "C",
+      "explanation": "Voltaire a dénoncé l'esclavage dans son œuvre, notamment dans Candide (1759) où il décrit les horreurs de l'esclavage. Montesquieu et d'autres philosophes des Lumières ont également critiqué cette pratique."
+    },
+    {
+      "id": 160,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel peintre est français ?",
+      "options": {
+        "A": "Leonardo da Vinci",
+        "B": "Pablo Picasso",
+        "C": "Rembrandt",
+        "D": "Eugène Delacroix"
+      },
+      "correctAnswer": "D",
+      "explanation": "Eugène Delacroix (1798-1863) est un peintre français, chef de file du romantisme. Il est notamment l'auteur de La Liberté guidant le peuple (1830)."
+    },
+    {
+      "id": 161,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel plat est une spécialité de la cuisine française ?",
+      "options": {
+        "A": "La paella",
+        "B": "Le coq au vin",
+        "C": "La pizza",
+        "D": "Le curry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le coq au vin est un plat traditionnel français, préparé avec du poulet mijoté dans du vin rouge. La cuisine française est reconnue comme patrimoine culturel immatériel de l'UNESCO depuis 2010."
+    },
+    {
+      "id": 162,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Marie Curie ?",
+      "options": {
+        "A": "Une romancière française du XIXe siècle",
+        "B": "Une peintre impressionniste",
+        "C": "Une scientifique qui a découvert la radioactivité et obtenu deux prix Nobel",
+        "D": "Une résistante française pendant la Seconde Guerre mondiale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Marie Curie (1867-1934) est une physicienne et chimiste d'origine polonaise naturalisée française. Elle a découvert les éléments polonium et radium et est la première femme à avoir reçu un prix Nobel, et la seule à en avoir obtenu deux (physique en 1903, chimie en 1911)."
+    },
+    {
+      "id": 163,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui a peint 'La Liberté guidant le peuple' ?",
+      "options": {
+        "A": "Claude Monet",
+        "B": "Auguste Renoir",
+        "C": "Eugène Delacroix",
+        "D": "Paul Cézanne"
+      },
+      "correctAnswer": "C",
+      "explanation": "'La Liberté guidant le peuple' est un tableau peint par Eugène Delacroix en 1830. Il commémore la révolution des Trois Glorieuses et est exposé au musée du Louvre à Paris."
+    },
+    {
+      "id": 164,
+      "theme": "Histoire, géographie et culture",
+      "question": "Dans quel grand musée parisien est exposée la Joconde ?",
+      "options": {
+        "A": "Le musée d'Orsay",
+        "B": "Le Centre Pompidou",
+        "C": "Le musée du Louvre",
+        "D": "Le musée de l'Orangerie"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Joconde (Mona Lisa) de Léonard de Vinci est exposée au musée du Louvre à Paris. C'est le tableau le plus visité au monde."
+    },
+    {
+      "id": 165,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel château célèbre se trouve près de Paris et symbolise le pouvoir royal de Louis XIV ?",
+      "options": {
+        "A": "Le château de Chambord",
+        "B": "Le château de Versailles",
+        "C": "Le château de Fontainebleau",
+        "D": "Le château de Vaux-le-Vicomte"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le château de Versailles, construit et agrandi sous Louis XIV au XVIIe siècle, est le symbole de la monarchie absolue française. Il est classé au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": 166,
+      "theme": "Histoire, géographie et culture",
+      "question": "Où peut-on voir des peintures préhistoriques en France ?",
+      "options": {
+        "A": "Dans les catacombes de Paris",
+        "B": "Dans la grotte de Lascaux en Dordogne",
+        "C": "Dans les mines d'Alsace",
+        "D": "Dans les falaises d'Étretat"
+      },
+      "correctAnswer": "B",
+      "explanation": "La grotte de Lascaux, en Dordogne, abrite des peintures rupestres vieilles d'environ 17 000 ans. Elle est considérée comme l'une des plus importantes au monde pour les peintures préhistoriques."
+    },
+    {
+      "id": 167,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel peintre célèbre a peint les Nymphéas ?",
+      "options": {
+        "A": "Auguste Renoir",
+        "B": "Paul Gauguin",
+        "C": "Claude Monet",
+        "D": "Edgar Degas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les Nymphéas sont une série de peintures réalisées par Claude Monet entre 1896 et 1926. Les grandes décorations sont exposées au musée de l'Orangerie à Paris."
+    },
+    {
+      "id": 168,
+      "theme": "Histoire, géographie et culture",
+      "question": "Pendant quelles journées peut-on visiter gratuitement des lieux culturels en France ?",
+      "options": {
+        "A": "Les journées du patrimoine",
+        "B": "La fête de la musique",
+        "C": "La nuit blanche",
+        "D": "La fête des voisins"
+      },
+      "correctAnswer": "A",
+      "explanation": "Les Journées européennes du patrimoine, organisées chaque année en septembre, permettent de visiter gratuitement des monuments, musées et lieux culturels habituellement fermés ou payants."
+    },
+    {
+      "id": 169,
+      "theme": "Histoire, géographie et culture",
+      "question": "Que symbolise le 1er mai ?",
+      "options": {
+        "A": "La fête des mères",
+        "B": "La fête du travail et des travailleurs",
+        "C": "La victoire des Alliés en 1945",
+        "D": "La fête de la République"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 1er mai est la fête internationale du travail. En France, c'est un jour férié qui célèbre les droits des travailleurs. Il est traditionnellement marqué par des défilés syndicaux."
+    },
+    {
+      "id": 170,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Monsieur Rouget de Lisle ?",
+      "options": {
+        "A": "Un général de la Révolution française",
+        "B": "L'auteur et compositeur de La Marseillaise",
+        "C": "Un philosophe des Lumières",
+        "D": "Le premier président de la République française"
+      },
+      "correctAnswer": "B",
+      "explanation": "Claude Joseph Rouget de Lisle est l'auteur et compositeur de La Marseillaise, composée en 1792. Ce chant est devenu l'hymne national de la France en 1795."
+    },
+    {
+      "id": 171,
+      "theme": "Histoire, géographie et culture",
+      "question": "À quelle occasion a été construite la Tour Eiffel ?",
+      "options": {
+        "A": "Pour le couronnement de Napoléon III",
+        "B": "Pour l'Exposition universelle de 1889 célébrant le centenaire de la Révolution française",
+        "C": "Pour commémorer la victoire de 1918",
+        "D": "Pour les Jeux olympiques de Paris de 1900"
+      },
+      "correctAnswer": "B",
+      "explanation": "La Tour Eiffel a été construite par Gustave Eiffel pour l'Exposition universelle de Paris de 1889, qui célébrait le centenaire de la Révolution française. Elle est devenue le symbole de Paris dans le monde entier."
+    },
+    {
+      "id": 172,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+      "options": {
+        "A": "Les Pyrénées",
+        "B": "Les Vosges",
+        "C": "Les Alpes",
+        "D": "Le Massif central"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les Alpes forment la frontière naturelle entre la France et l'Italie (et aussi la Suisse). Le Mont-Blanc, point culminant de France et d'Europe occidentale, se trouve dans les Alpes."
+    },
+    {
+      "id": 173,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Molière ?",
+      "options": {
+        "A": "Un poète symboliste du XIXe siècle",
+        "B": "Un dramaturge et comédien français du XVIIe siècle",
+        "C": "Un philosophe des Lumières",
+        "D": "Un peintre de la Renaissance française"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molière (1622-1673), de son vrai nom Jean-Baptiste Poquelin, est un dramaturge et comédien français du XVIIe siècle. Il est l'auteur de pièces célèbres comme Le Misanthrope, Tartuffe et Le Bourgeois gentilhomme."
+    },
+    {
+      "id": 174,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Charles Baudelaire ?",
+      "options": {
+        "A": "Un poète français du XIXe siècle, auteur des Fleurs du mal",
+        "B": "Un romancier du XXe siècle",
+        "C": "Un peintre impressionniste",
+        "D": "Un philosophe existentialiste"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charles Baudelaire (1821-1867) est un poète français du XIXe siècle. Son œuvre majeure, Les Fleurs du mal (1857), est un recueil de poèmes qui a révolutionné la poésie française et ouvert la voie au symbolisme."
+    },
+    {
+      "id": 175,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était George Sand ?",
+      "options": {
+        "A": "Une peintre impressionniste",
+        "B": "Une romancière française du XIXe siècle",
+        "C": "Une militante féministe du XXe siècle",
+        "D": "Une compositrice de musique classique"
+      },
+      "correctAnswer": "B",
+      "explanation": "George Sand (1804-1876), de son vrai nom Aurore Dupin, est une romancière française du XIXe siècle. Elle est connue pour ses engagements féministes et républicains, et ses nombreux romans comme La Mare au diable."
+    },
+    {
+      "id": 176,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Simone de Beauvoir ?",
+      "options": {
+        "A": "Une romancière et philosophe féministe française du XXe siècle",
+        "B": "Une militante pour les droits civiques américaine",
+        "C": "Une physicienne française",
+        "D": "Une résistante française pendant la Seconde Guerre mondiale"
+      },
+      "correctAnswer": "A",
+      "explanation": "Simone de Beauvoir (1908-1986) est une philosophe et écrivaine française, figure majeure du féminisme. Son œuvre Le Deuxième Sexe (1949) est un texte fondateur du féminisme moderne."
+    },
+    {
+      "id": 177,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Albert Camus ?",
+      "options": {
+        "A": "Un poète surréaliste",
+        "B": "Un écrivain et philosophe français, prix Nobel de littérature en 1957",
+        "C": "Un compositeur français du XXe siècle",
+        "D": "Un peintre de l'école de Paris"
+      },
+      "correctAnswer": "B",
+      "explanation": "Albert Camus (1913-1960) est un écrivain et philosophe français, associé à la philosophie de l'absurde. Il a reçu le prix Nobel de littérature en 1957. Parmi ses œuvres : L'Étranger, La Peste, Le Mythe de Sisyphe."
+    },
+    {
+      "id": 178,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Marguerite Yourcenar ?",
+      "options": {
+        "A": "La première femme élue à l'Académie française",
+        "B": "Une militante pour le droit de vote des femmes",
+        "C": "Une scientifique française du XXe siècle",
+        "D": "Une peintre contemporaine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Marguerite Yourcenar (1903-1987) est une romancière française, connue notamment pour ses Mémoires d'Hadrien. En 1980, elle est devenue la première femme élue à l'Académie française."
+    },
+    {
+      "id": 179,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Paul Cézanne ?",
+      "options": {
+        "A": "Un sculpteur français du XIXe siècle",
+        "B": "Un peintre post-impressionniste français, précurseur du cubisme",
+        "C": "Un compositeur de musique romantique",
+        "D": "Un architecte du XXe siècle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paul Cézanne (1839-1906) est un peintre français post-impressionniste. Son travail sur les formes et les couleurs a influencé de nombreux artistes du XXe siècle, notamment les cubistes comme Picasso."
+    },
+    {
+      "id": 180,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Auguste Rodin ?",
+      "options": {
+        "A": "Un peintre impressionniste français",
+        "B": "Un sculpteur français du XIXe siècle",
+        "C": "Un architecte parisien",
+        "D": "Un compositeur d'opéra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Auguste Rodin (1840-1917) est un sculpteur français, considéré comme le père de la sculpture moderne. Parmi ses œuvres les plus célèbres : Le Penseur, Le Baiser et Les Bourgeois de Calais."
+    },
+    {
+      "id": 181,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était un célèbre compositeur français ?",
+      "options": {
+        "A": "Ludwig van Beethoven",
+        "B": "Wolfgang Amadeus Mozart",
+        "C": "Claude Debussy",
+        "D": "Frédéric Chopin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Claude Debussy (1862-1918) est l'un des compositeurs français les plus célèbres. Il est le père de l'impressionnisme musical et est connu pour des œuvres comme Clair de lune et La Mer."
+    },
+    {
+      "id": 182,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qui était Auguste Renoir ?",
+      "options": {
+        "A": "Un sculpteur du XIXe siècle",
+        "B": "Un peintre impressionniste français",
+        "C": "Un écrivain naturaliste",
+        "D": "Un architecte haussmannien"
+      },
+      "correctAnswer": "B",
+      "explanation": "Auguste Renoir (1841-1919) est un peintre français, l'un des principaux représentants du mouvement impressionniste. Il est connu pour ses peintures lumineuses représentant des scènes de la vie quotidienne."
+    },
+    {
+      "id": 183,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel musée est situé à Paris ?",
+      "options": {
+        "A": "Le musée des Beaux-Arts de Lyon",
+        "B": "Le musée d'Orsay",
+        "C": "Le musée Fabre",
+        "D": "Le musée des Confluences"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le musée d'Orsay est situé à Paris, dans une ancienne gare sur la rive gauche de la Seine. Il est consacré aux œuvres d'art de la seconde moitié du XIXe siècle et abrite une importante collection impressionniste."
+    },
+    {
+      "id": 184,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel monument historique se trouve sur une île en Normandie ?",
+      "options": {
+        "A": "Le château de Versailles",
+        "B": "Le Mont-Saint-Michel",
+        "C": "La cathédrale de Chartres",
+        "D": "Le château de Chambord"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le Mont-Saint-Michel est un îlot rocheux situé en Normandie, sur lequel est bâtie une abbaye médiévale. C'est l'un des sites les plus visités de France et un monument classé au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": 185,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+      "options": {
+        "A": "Calais",
+        "B": "Biarritz",
+        "C": "Lyon",
+        "D": "Ajaccio"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lyon est la deuxième plus grande métropole de France après Paris. C'est la capitale de la région Auvergne-Rhône-Alpes et un important centre économique, culturel et gastronomique."
+    },
+    {
+      "id": 186,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle île fait partie des Antilles françaises ?",
+      "options": {
+        "A": "La Réunion",
+        "B": "La Corse",
+        "C": "Mayotte",
+        "D": "La Martinique"
+      },
+      "correctAnswer": "D",
+      "explanation": "La Martinique est une île des Antilles françaises, département et région d'outre-mer (DROM). Elle est située dans la mer des Caraïbes."
+    },
+    {
+      "id": 187,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle île est française ?",
+      "options": {
+        "A": "La Sardaigne",
+        "B": "Malte",
+        "C": "La Corse",
+        "D": "Les Baléares"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Corse est une île française, collectivité territoriale unique, située en mer Méditerranée. C'est la quatrième plus grande île de Méditerranée."
+    },
+    {
+      "id": 188,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle est la plus haute montagne de France ?",
+      "options": {
+        "A": "Le Mont Blanc",
+        "B": "Le Mont Ventoux",
+        "C": "Le Pic du Midi",
+        "D": "Le Puy de Dôme"
+      },
+      "correctAnswer": "A",
+      "explanation": "Le Mont Blanc, situé dans les Alpes à la frontière franco-italienne, culmine à 4 808 mètres. C'est le point culminant de France et d'Europe occidentale."
+    },
+    {
+      "id": 189,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle île française est située dans l'océan Indien ?",
+      "options": {
+        "A": "La Guadeloupe",
+        "B": "La Martinique",
+        "C": "La Réunion",
+        "D": "Saint-Martin"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Réunion est une île française et un département d'outre-mer (DROM) situé dans l'océan Indien, à l'est de Madagascar. Sa capitale est Saint-Denis."
+    },
+    {
+      "id": 190,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel département français a une frontière avec le Brésil ?",
+      "options": {
+        "A": "La Martinique",
+        "B": "La Guadeloupe",
+        "C": "La Guyane française",
+        "D": "Mayotte"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Guyane française est un département d'outre-mer situé en Amérique du Sud. Elle partage des frontières terrestres avec le Brésil au sud et à l'est, et avec le Suriname à l'ouest."
+    },
+    {
+      "id": 191,
+      "theme": "Histoire, géographie et culture",
+      "question": "De quelle ville française décolle la fusée Ariane ?",
+      "options": {
+        "A": "De Toulouse",
+        "B": "De Kourou, en Guyane française",
+        "C": "De Bordeaux",
+        "D": "De Brest"
+      },
+      "correctAnswer": "B",
+      "explanation": "La fusée Ariane décolle du Centre spatial guyanais de Kourou, en Guyane française. Ce site est choisi pour sa proximité avec l'équateur, qui facilite les lancements de satellites."
+    },
+    {
+      "id": 192,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle mer ou océan borde la France métropolitaine ?",
+      "options": {
+        "A": "La mer du Nord uniquement",
+        "B": "L'océan Atlantique et la mer Méditerranée",
+        "C": "La mer Baltique et l'océan Atlantique",
+        "D": "L'océan Indien et la mer Méditerranée"
+      },
+      "correctAnswer": "B",
+      "explanation": "La France métropolitaine est bordée par l'océan Atlantique à l'ouest, la Manche et la mer du Nord au nord, et la mer Méditerranée au sud. La France a l'une des plus grandes façades maritimes d'Europe."
+    },
+    {
+      "id": 193,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle île est un département d'outre-mer français ?",
+      "options": {
+        "A": "La Corse",
+        "B": "Jersey",
+        "C": "La Guadeloupe",
+        "D": "Les Açores"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Guadeloupe est un département et région d'outre-mer (DROM) français situé dans les Antilles. Sa préfecture est Basse-Terre et sa ville la plus peuplée est Pointe-à-Pitre."
+    },
+    {
+      "id": 194,
+      "theme": "Histoire, géographie et culture",
+      "question": "Qu'est-ce que la France d'outre-mer ?",
+      "options": {
+        "A": "Les ambassades françaises à l'étranger",
+        "B": "Les territoires français situés en dehors de l'Europe continentale",
+        "C": "Les pays francophones qui ne font pas partie de la France",
+        "D": "Les zones économiques exclusives françaises"
+      },
+      "correctAnswer": "B",
+      "explanation": "La France d'outre-mer désigne l'ensemble des territoires français situés en dehors de l'Europe continentale : les DROM (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte) et les collectivités d'outre-mer."
+    },
+    {
+      "id": 195,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle est la population approximative de la France en 2025 ?",
+      "options": {
+        "A": "Environ 50 millions d'habitants",
+        "B": "Environ 68 millions d'habitants",
+        "C": "Environ 80 millions d'habitants",
+        "D": "Environ 45 millions d'habitants"
+      },
+      "correctAnswer": "B",
+      "explanation": "La France compte environ 68 millions d'habitants en 2025 (incluant les territoires d'outre-mer). C'est le deuxième pays le plus peuplé de l'Union européenne après l'Allemagne."
+    },
+    {
+      "id": 196,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel est le principal port maritime de France ?",
+      "options": {
+        "A": "Marseille",
+        "B": "Bordeaux",
+        "C": "Nantes",
+        "D": "Brest"
+      },
+      "correctAnswer": "A",
+      "explanation": "Marseille est le premier port maritime de France et l'un des plus importants de la Méditerranée. Le Grand Port Maritime de Marseille-Fos est le premier port de France en volume de marchandises."
+    },
+    {
+      "id": 197,
+      "theme": "Histoire, géographie et culture",
+      "question": "Combien y a-t-il de régions en France métropolitaine ?",
+      "options": {
+        "A": "13",
+        "B": "18",
+        "C": "22",
+        "D": "96"
+      },
+      "correctAnswer": "A",
+      "explanation": "Depuis la réforme territoriale de 2015, la France métropolitaine compte 13 régions. En incluant les 5 régions d'outre-mer, la France compte 18 régions au total."
+    },
+    {
+      "id": 198,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle île française se trouve au sud-est du continent africain ?",
+      "options": {
+        "A": "La Guadeloupe",
+        "B": "La Martinique",
+        "C": "Mayotte",
+        "D": "La Réunion"
+      },
+      "correctAnswer": "D",
+      "explanation": "La Réunion est une île française située dans l'océan Indien, à environ 800 km à l'est de Madagascar, au sud-est du continent africain. Elle est département d'outre-mer depuis 1946."
+    },
+    {
+      "id": 199,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?",
+      "options": {
+        "A": "Grenoble",
+        "B": "Lyon",
+        "C": "Clermont-Ferrand",
+        "D": "Saint-Étienne"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lyon est le chef-lieu de la région Auvergne-Rhône-Alpes. C'est la deuxième métropole de France et un important centre économique, culturel et gastronomique."
+    },
+    {
+      "id": 200,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel est le chef-lieu de la région Bretagne ?",
+      "options": {
+        "A": "Brest",
+        "B": "Saint-Malo",
+        "C": "Nantes",
+        "D": "Rennes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rennes est le chef-lieu de la région Bretagne. C'est une ville universitaire dynamique, capitale historique de la Bretagne."
+    },
+    {
+      "id": 201,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?",
+      "options": {
+        "A": "Nice",
+        "B": "Toulon",
+        "C": "Marseille",
+        "D": "Aix-en-Provence"
+      },
+      "correctAnswer": "C",
+      "explanation": "Marseille est le chef-lieu de la région Provence-Alpes-Côte d'Azur (PACA). C'est la deuxième ville la plus peuplée de France et le premier port maritime français."
+    },
+    {
+      "id": 202,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel est le 101ème département français depuis 2011 ?",
+      "options": {
+        "A": "La Polynésie française",
+        "B": "La Nouvelle-Calédonie",
+        "C": "Mayotte",
+        "D": "Saint-Pierre-et-Miquelon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mayotte est devenue le 101ème département français le 31 mars 2011, après un référendum en 2009. C'est un archipel situé dans l'océan Indien, entre Madagascar et la côte mozambicaine."
+    },
+    {
+      "id": 203,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quelle région française est réputée pour ses stations de ski ?",
+      "options": {
+        "A": "La Bretagne",
+        "B": "La Normandie",
+        "C": "Auvergne-Rhône-Alpes",
+        "D": "Les Hauts-de-France"
+      },
+      "correctAnswer": "C",
+      "explanation": "La région Auvergne-Rhône-Alpes est réputée pour ses stations de ski dans les Alpes (Chamonix, Courchevel, Les Arcs, Megève...) et dans le Massif central. La France est l'une des premières destinations mondiales pour le ski."
+    },
+    {
+      "id": 204,
+      "theme": "Histoire, géographie et culture",
+      "question": "Quel fleuve traverse Paris ?",
+      "options": {
+        "A": "La Loire",
+        "B": "Le Rhône",
+        "C": "La Seine",
+        "D": "La Garonne"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Seine est le fleuve qui traverse Paris. Elle prend sa source en Bourgogne et se jette dans la Manche au Havre, après un parcours de 775 km. Les berges de la Seine à Paris sont classées au patrimoine mondial de l'UNESCO."
+    },
+    {
+      "id": 205,
+      "theme": "Vivre dans la société française",
+      "question": "Où faut-il déclarer la naissance d'un enfant ?",
+      "options": {
+        "A": "À la préfecture",
+        "B": "À la mairie du lieu de naissance",
+        "C": "À la caisse d'allocations familiales (CAF)",
+        "D": "Au commissariat de police"
+      },
+      "correctAnswer": "B",
+      "explanation": "La naissance d'un enfant doit être déclarée à la mairie du lieu de naissance dans les 5 jours suivant l'accouchement. C'est l'officier d'état civil qui établit l'acte de naissance."
+    },
+    {
+      "id": 206,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+      "options": {
+        "A": "Abattre une cloison",
+        "B": "Sous-louer le logement",
+        "C": "Accrocher des tableaux au mur",
+        "D": "Changer la disposition des pièces"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le locataire peut réaliser de petits aménagements comme accrocher des tableaux sans autorisation du propriétaire. En revanche, les travaux de transformation importants nécessitent son accord écrit."
+    },
+    {
+      "id": 207,
+      "theme": "Vivre dans la société française",
+      "question": "Quel mariage est reconnu légalement ?",
+      "options": {
+        "A": "Le mariage religieux uniquement",
+        "B": "Le mariage civil célébré à la mairie",
+        "C": "Le mariage célébré à l'étranger uniquement",
+        "D": "Le mariage traditionnel célébré en famille"
+      },
+      "correctAnswer": "B",
+      "explanation": "En France, seul le mariage civil célébré devant un officier d'état civil à la mairie a une valeur juridique. Le mariage religieux n'a aucune reconnaissance légale et ne peut avoir lieu qu'après le mariage civil."
+    },
+    {
+      "id": 208,
+      "theme": "Vivre dans la société française",
+      "question": "Le stationnement sur une place réservée aux personnes handicapées :",
+      "options": {
+        "A": "Est toléré si le stationnement est de courte durée",
+        "B": "Est autorisé la nuit",
+        "C": "Est une infraction passible d'une amende et d'une mise en fourrière",
+        "D": "Est autorisé si aucune personne handicapée n'est présente"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stationner sans autorisation sur une place réservée aux personnes handicapées est une infraction. Elle est passible d'une amende de 135 euros et le véhicule peut être mis en fourrière."
+    },
+    {
+      "id": 209,
+      "theme": "Vivre dans la société française",
+      "question": "Si une machine à laver est cassée, il est possible de :",
+      "options": {
+        "A": "Déduire le coût de réparation du loyer sans en informer le propriétaire",
+        "B": "Prévenir le propriétaire par écrit et demander la réparation",
+        "C": "Quitter le logement sans préavis",
+        "D": "Remplacer la machine sans en informer le propriétaire"
+      },
+      "correctAnswer": "B",
+      "explanation": "En cas de panne d'un équipement fourni par le propriétaire, le locataire doit informer le propriétaire par écrit (lettre recommandée) et lui demander d'effectuer les réparations nécessaires. C'est une obligation du propriétaire de maintenir le logement en bon état."
+    },
+    {
+      "id": 210,
+      "theme": "Vivre dans la société française",
+      "question": "Dans quel cas faut-il déclarer son enfant au service d'état civil ?",
+      "options": {
+        "A": "Uniquement si l'enfant est né à l'hôpital",
+        "B": "Uniquement si les parents sont mariés",
+        "C": "Pour toute naissance, quelle que soit la situation des parents",
+        "D": "Uniquement si l'enfant est né en France"
+      },
+      "correctAnswer": "C",
+      "explanation": "Toute naissance doit obligatoirement être déclarée à l'état civil, quelle que soit la situation des parents (mariés, pacsés, en union libre) et quel que soit le lieu de naissance en France."
+    },
+    {
+      "id": 211,
+      "theme": "Vivre dans la société française",
+      "question": "Quand faut-il déclarer son enfant au service d'état civil ?",
+      "options": {
+        "A": "Dans les 24 heures suivant la naissance",
+        "B": "Dans les 5 jours suivant la naissance",
+        "C": "Dans le mois suivant la naissance",
+        "D": "Dans les 3 mois suivant la naissance"
+      },
+      "correctAnswer": "B",
+      "explanation": "La déclaration de naissance doit être faite dans les 5 jours suivant l'accouchement à la mairie du lieu de naissance. En cas de naissance à l'hôpital, le personnel médical peut effectuer cette démarche."
+    },
+    {
+      "id": 212,
+      "theme": "Vivre dans la société française",
+      "question": "Quel numéro d'urgence permet d'appeler la police ?",
+      "options": {
+        "A": "15",
+        "B": "17",
+        "C": "18",
+        "D": "112"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 17 est le numéro d'appel de la police nationale et de la gendarmerie. Le 15 est le SAMU, le 18 est les pompiers et le 112 est le numéro d'urgence européen."
+    },
+    {
+      "id": 213,
+      "theme": "Vivre dans la société française",
+      "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+      "options": {
+        "A": "15",
+        "B": "17",
+        "C": "18",
+        "D": "115"
+      },
+      "correctAnswer": "A",
+      "explanation": "Le 15 est le numéro du SAMU (Service d'Aide Médicale Urgente). Il permet d'obtenir une aide médicale d'urgence 24h/24 et 7j/7. Le médecin régulateur évalue la situation et envoie les secours appropriés."
+    },
+    {
+      "id": 214,
+      "theme": "Vivre dans la société française",
+      "question": "Auprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?",
+      "options": {
+        "A": "La préfecture",
+        "B": "La caisse d'allocations familiales (CAF)",
+        "C": "La mairie",
+        "D": "Le rectorat"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les parents doivent d'abord s'inscrire à la mairie de leur domicile, qui attribue une école en fonction du secteur géographique. L'inscription administrative se fait ensuite directement auprès de l'école désignée."
+    },
+    {
+      "id": 215,
+      "theme": "Vivre dans la société française",
+      "question": "En cas de divorce, qui exerce l'autorité parentale ?",
+      "options": {
+        "A": "Uniquement le parent qui a la garde de l'enfant",
+        "B": "Les deux parents conjointement, sauf décision contraire du juge",
+        "C": "Uniquement le père",
+        "D": "L'État, jusqu'à ce qu'un accord soit trouvé"
+      },
+      "correctAnswer": "B",
+      "explanation": "En France, après un divorce, l'autorité parentale est exercée conjointement par les deux parents dans la grande majorité des cas. Le juge aux affaires familiales ne peut la retirer à un parent que dans des cas exceptionnels (danger pour l'enfant)."
+    },
+    {
+      "id": 216,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "options": {
+        "A": "La mutuelle santé",
+        "B": "L'aide juridictionnelle",
+        "C": "Le RSA",
+        "D": "La médiation familiale"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'aide juridictionnelle est une aide de l'État qui permet aux personnes aux revenus modestes d'avoir accès à un avocat et de financer les frais de justice. Elle est accordée en fonction des ressources du demandeur."
+    },
+    {
+      "id": 217,
+      "theme": "Vivre dans la société française",
+      "question": "Qui peut demander le divorce de personnes mariées ?",
+      "options": {
+        "A": "Uniquement le mari",
+        "B": "Uniquement la femme",
+        "C": "L'un ou l'autre des époux, ou les deux ensemble",
+        "D": "Uniquement un juge d'office"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, le divorce peut être demandé par l'un ou l'autre des époux, ou par les deux conjointement (divorce par consentement mutuel). Il existe plusieurs types de divorce : par consentement mutuel, pour acceptation du principe de la rupture, pour altération définitive du lien conjugal, et pour faute."
+    },
+    {
+      "id": 218,
+      "theme": "Vivre dans la société française",
+      "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+      "options": {
+        "A": "La mairie",
+        "B": "La CAF",
+        "C": "L'Assurance maladie (Sécurité sociale)",
+        "D": "Le médecin traitant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le remboursement des frais de santé est assuré par l'Assurance maladie, qui fait partie de la Sécurité sociale. La carte Vitale permet la transmission automatique des feuilles de soins pour obtenir le remboursement."
+    },
+    {
+      "id": 219,
+      "theme": "Vivre dans la société française",
+      "question": "La contraception :",
+      "options": {
+        "A": "Est interdite en France",
+        "B": "Est uniquement réservée aux femmes mariées",
+        "C": "Est légale et accessible à toutes les femmes en France",
+        "D": "N'est remboursée que pour les femmes de moins de 18 ans"
+      },
+      "correctAnswer": "C",
+      "explanation": "La contraception est légale et accessible à toutes les femmes en France. Depuis 2022, la contraception est gratuite pour toutes les femmes jusqu'à 25 ans. Elle est prise en charge par l'Assurance maladie selon des modalités variables selon les méthodes et l'âge."
+    },
+    {
+      "id": 220,
+      "theme": "Vivre dans la société française",
+      "question": "À quoi sert la carte Vitale ?",
+      "options": {
+        "A": "À voter lors des élections",
+        "B": "À prouver son identité lors d'un contrôle de police",
+        "C": "À faciliter le remboursement des frais de santé par l'Assurance maladie",
+        "D": "À obtenir des réductions dans les transports en commun"
+      },
+      "correctAnswer": "C",
+      "explanation": "La carte Vitale est la carte d'assuré social. Elle contient les informations nécessaires au remboursement des soins et permet la transmission électronique des feuilles de soins à l'Assurance maladie, sans avoir à envoyer de documents papier."
+    },
+    {
+      "id": 221,
+      "theme": "Vivre dans la société française",
+      "question": "À quoi sert une mutuelle santé ?",
+      "options": {
+        "A": "À remplacer entièrement l'Assurance maladie",
+        "B": "À rembourser la part des frais de santé non prise en charge par l'Assurance maladie",
+        "C": "À financer les médicaments non remboursés uniquement",
+        "D": "À payer les frais d'hospitalisation uniquement"
+      },
+      "correctAnswer": "B",
+      "explanation": "La mutuelle santé (ou complémentaire santé) prend en charge tout ou partie du reste à charge après remboursement par l'Assurance maladie. Elle est complémentaire à la Sécurité sociale et non un substitut."
+    },
+    {
+      "id": 222,
+      "theme": "Vivre dans la société française",
+      "question": "Qu'est-ce que le tiers payant ?",
+      "options": {
+        "A": "Un système où un tiers (ami ou famille) paie les soins à la place du patient",
+        "B": "Un dispositif permettant de ne pas avancer les frais de santé chez le médecin",
+        "C": "Une réduction de 33% sur les frais médicaux",
+        "D": "Un remboursement des soins effectué dans les trois jours"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le tiers payant est un dispositif qui permet au patient de ne pas avancer les frais de santé. L'Assurance maladie et la mutuelle règlent directement le professionnel de santé. Il est obligatoire pour les bénéficiaires de la CSS (complémentaire santé solidaire)."
+    },
+    {
+      "id": 223,
+      "theme": "Vivre dans la société française",
+      "question": "L'inscription à l'Assurance maladie est :",
+      "options": {
+        "A": "Facultative, selon les revenus",
+        "B": "Obligatoire uniquement pour les salariés",
+        "C": "Obligatoire pour toute personne résidant régulièrement en France",
+        "D": "Réservée aux citoyens français"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'inscription à l'Assurance maladie est obligatoire pour toute personne résidant régulièrement en France, quelle que soit sa nationalité. La Protection universelle maladie (PUMa) garantit la prise en charge des frais de santé."
+    },
+    {
+      "id": 224,
+      "theme": "Vivre dans la société française",
+      "question": "L'avortement est-il possible en France ?",
+      "options": {
+        "A": "Non, l'avortement est interdit en France",
+        "B": "Oui, uniquement pour les mineures",
+        "C": "Oui, c'est un droit garanti par la loi, jusqu'à 14 semaines de grossesse",
+        "D": "Oui, mais uniquement en cas de danger pour la vie de la mère"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'interruption volontaire de grossesse (IVG) est légale en France depuis la loi Veil de 1975. Depuis 2022, le délai légal est de 14 semaines de grossesse. Depuis 2024, le droit à l'IVG est inscrit dans la Constitution française."
+    },
+    {
+      "id": 225,
+      "theme": "Vivre dans la société française",
+      "question": "Travailler sans être déclaré est :",
+      "options": {
+        "A": "Toléré pour les petits jobs occasionnels",
+        "B": "Légal si le salaire est inférieur au SMIC",
+        "C": "Illégal pour l'employeur et peut être problématique pour le salarié",
+        "D": "Autorisé pour les étrangers en situation irrégulière"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le travail non déclaré (travail au noir) est illégal. L'employeur risque de lourdes sanctions pénales et financières. Le salarié, quant à lui, n'est pas protégé (pas de droit au chômage, pas de cotisations retraite, pas de protection en cas d'accident du travail)."
+    },
+    {
+      "id": 226,
+      "theme": "Vivre dans la société française",
+      "question": "Qu'est-ce que le SMIC ?",
+      "options": {
+        "A": "Un type de contrat de travail réservé aux jeunes",
+        "B": "Le salaire minimum interprofessionnel de croissance, en dessous duquel aucun salarié ne peut être payé",
+        "C": "Une aide sociale versée aux chômeurs",
+        "D": "Le salaire moyen des fonctionnaires français"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le SMIC (Salaire Minimum Interprofessionnel de Croissance) est le salaire horaire minimum légal en France. Aucun employeur ne peut rémunérer un salarié en dessous de ce seuil. Il est réévalué chaque année au 1er janvier."
+    },
+    {
+      "id": 227,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+      "options": {
+        "A": "Contacter directement les entreprises par téléphone",
+        "B": "S'inscrire à France Travail (anciennement Pôle emploi)",
+        "C": "Déposer une demande à la mairie",
+        "D": "Contacter la préfecture"
+      },
+      "correctAnswer": "B",
+      "explanation": "La première démarche est de s'inscrire à France Travail (anciennement Pôle emploi), l'organisme public chargé de l'emploi. Cela permet de bénéficier d'un accompagnement, d'accéder aux offres d'emploi et, le cas échéant, de percevoir des allocations chômage."
+    },
+    {
+      "id": 228,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle est la durée légale du temps de travail par semaine ?",
+      "options": {
+        "A": "32 heures",
+        "B": "35 heures",
+        "C": "39 heures",
+        "D": "40 heures"
+      },
+      "correctAnswer": "B",
+      "explanation": "La durée légale du travail en France est de 35 heures par semaine, instaurée par les lois Aubry en 1998-2000. Les heures effectuées au-delà sont des heures supplémentaires, soumises à une majoration de salaire."
+    },
+    {
+      "id": 229,
+      "theme": "Vivre dans la société française",
+      "question": "Qui peut demander un congé parental d'éducation ?",
+      "options": {
+        "A": "Uniquement la mère",
+        "B": "Uniquement le père",
+        "C": "L'un ou l'autre des parents, ou les deux",
+        "D": "Uniquement les parents mariés"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le congé parental d'éducation peut être demandé par l'un ou l'autre des parents (ou les deux simultanément à temps partiel), quelle que soit leur situation maritale. Il permet de s'occuper d'un enfant de moins de 3 ans tout en conservant son poste."
+    },
+    {
+      "id": 230,
+      "theme": "Vivre dans la société française",
+      "question": "Une personne étrangère, en situation régulière, peut créer son entreprise :",
+      "options": {
+        "A": "Non, seuls les citoyens français peuvent créer une entreprise",
+        "B": "Oui, sous certaines conditions liées à son titre de séjour",
+        "C": "Oui, sans aucune condition particulière",
+        "D": "Non, sauf si elle est mariée à un citoyen français"
+      },
+      "correctAnswer": "B",
+      "explanation": "Une personne étrangère en situation régulière peut créer son entreprise en France, sous certaines conditions liées à son titre de séjour. Certains titres de séjour autorisent l'exercice d'une activité commerciale, d'autres non. Il convient de vérifier les mentions portées sur le titre de séjour."
+    },
+    {
+      "id": 231,
+      "theme": "Vivre dans la société française",
+      "question": "Une femme peut-elle créer son entreprise ?",
+      "options": {
+        "A": "Non, elle doit obtenir l'autorisation de son mari",
+        "B": "Oui, mais uniquement si elle est célibataire",
+        "C": "Oui, une femme peut librement créer et gérer son entreprise",
+        "D": "Oui, mais uniquement dans certains secteurs d'activité"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, une femme peut librement créer et gérer son entreprise, sans aucune autorisation de son conjoint. L'égalité entre les femmes et les hommes est un principe constitutionnel en France."
+    },
+    {
+      "id": 232,
+      "theme": "Vivre dans la société française",
+      "question": "Quels sont les textes qui définissent les règles au travail ?",
+      "options": {
+        "A": "La Constitution et le Code pénal",
+        "B": "Le Code du travail, la convention collective et le contrat de travail",
+        "C": "Uniquement le contrat de travail signé avec l'employeur",
+        "D": "Le règlement intérieur de l'entreprise uniquement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les règles au travail sont définies par plusieurs textes : le Code du travail (loi nationale), la convention collective (accord de branche professionnelle) et le contrat de travail (accord individuel entre l'employeur et le salarié). Ces textes s'appliquent de manière hiérarchique."
+    },
+    {
+      "id": 233,
+      "theme": "Vivre dans la société française",
+      "question": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+      "options": {
+        "A": "Les litiges entre voisins",
+        "B": "Les conflits entre employeurs et salariés",
+        "C": "Les affaires pénales liées au travail",
+        "D": "Les litiges entre entreprises concurrentes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le conseil de prud'hommes est une juridiction spécialisée qui traite les litiges entre employeurs et salariés liés au contrat de travail (licenciement abusif, non-paiement de salaires, discrimination, etc.). Il est composé à parité de représentants des salariés et des employeurs."
+    },
+    {
+      "id": 234,
+      "theme": "Vivre dans la société française",
+      "question": "Qui a le droit de se syndiquer ?",
+      "options": {
+        "A": "Uniquement les salariés des grandes entreprises",
+        "B": "Uniquement les fonctionnaires",
+        "C": "Tout travailleur, salarié ou fonctionnaire, sans discrimination",
+        "D": "Uniquement les salariés en CDI"
+      },
+      "correctAnswer": "C",
+      "explanation": "La liberté syndicale est un droit fondamental en France. Tout travailleur, qu'il soit salarié du secteur privé, fonctionnaire ou même chômeur, peut adhérer librement au syndicat de son choix. L'employeur ne peut s'y opposer."
+    },
+    {
+      "id": 235,
+      "theme": "Vivre dans la société française",
+      "question": "Est-il possible de licencier une femme enceinte ou en congé maternité, en raison de sa grossesse ?",
+      "options": {
+        "A": "Oui, si l'entreprise rencontre des difficultés économiques",
+        "B": "Oui, pendant la période d'essai",
+        "C": "Non, c'est interdit par la loi",
+        "D": "Oui, avec un préavis de 3 mois"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le licenciement d'une femme en raison de sa grossesse ou pendant son congé maternité est strictement interdit par la loi française. C'est une protection absolue. Un licenciement prononcé dans ces conditions est nul et la salariée peut être réintégrée dans l'entreprise."
+    },
+    {
+      "id": 236,
+      "theme": "Vivre dans la société française",
+      "question": "L'instruction des enfants est obligatoire de :",
+      "options": {
+        "A": "6 à 14 ans",
+        "B": "6 à 16 ans",
+        "C": "3 à 16 ans",
+        "D": "3 à 18 ans"
+      },
+      "correctAnswer": "D",
+      "explanation": "Depuis la loi du 26 juillet 2019, l'instruction est obligatoire de 3 à 18 ans en France. Auparavant, elle était obligatoire de 6 à 16 ans. L'instruction peut se faire à l'école ou, dans certains cas, à domicile."
+    },
+    {
+      "id": 237,
+      "theme": "Vivre dans la société française",
+      "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+      "options": {
+        "A": "Une amende de 150 euros",
+        "B": "Un avertissement de la mairie",
+        "C": "6 mois d'emprisonnement et 7 500 euros d'amende",
+        "D": "Uniquement le retrait de l'autorité parentale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les parents qui ne respectent pas l'obligation d'instruction de leurs enfants risquent des sanctions pénales pouvant aller jusqu'à 6 mois d'emprisonnement et 7 500 euros d'amende, en plus des mesures de protection de l'enfant qui peuvent être prononcées."
+    },
+    {
+      "id": 238,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle est la définition de l'autorité parentale ?",
+      "options": {
+        "A": "Le droit exclusif du père de prendre les décisions concernant l'enfant",
+        "B": "L'ensemble des droits et devoirs des parents pour protéger et élever leur enfant",
+        "C": "Le droit de l'État à intervenir dans l'éducation des enfants",
+        "D": "L'obligation pour les parents de scolariser leurs enfants"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'autorité parentale est l'ensemble des droits et des devoirs ayant pour finalité l'intérêt de l'enfant. Elle appartient aux parents jusqu'à la majorité ou l'émancipation de l'enfant pour le protéger dans sa sécurité, sa santé et sa moralité, et assurer son éducation."
+    },
+    {
+      "id": 239,
+      "theme": "Vivre dans la société française",
+      "question": "Quel motif d'absence est accepté par l'école ?",
+      "options": {
+        "A": "Un voyage en famille non prévu dans le calendrier scolaire",
+        "B": "La maladie de l'enfant, justifiée par un certificat médical",
+        "C": "La fatigue de l'enfant",
+        "D": "Des travaux à la maison"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les absences doivent être justifiées par les parents. Les motifs légitimes incluent notamment la maladie de l'enfant (justifiée si nécessaire par un certificat médical), les obligations religieuses ou familiales importantes. Les absences injustifiées répétées peuvent entraîner un signalement."
+    },
+    {
+      "id": 240,
+      "theme": "Vivre dans la société française",
+      "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+      "options": {
+        "A": "14 ans",
+        "B": "16 ans",
+        "C": "18 ans",
+        "D": "20 ans"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depuis la loi du 26 juillet 2019, l'instruction est obligatoire jusqu'à 18 ans en France. Cela ne signifie pas nécessairement être scolarisé dans un établissement scolaire, mais bien recevoir une instruction (y compris par apprentissage ou formation professionnelle)."
+    },
+    {
+      "id": 241,
+      "theme": "Vivre dans la société française",
+      "question": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "options": {
+        "A": "Dès la naissance",
+        "B": "À 3 ans",
+        "C": "À 6 ans",
+        "D": "À 5 ans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Depuis la rentrée 2019, l'instruction est obligatoire dès 3 ans en France (contre 6 ans auparavant). Cela signifie que la maternelle est devenue obligatoire pour tous les enfants à partir de 3 ans."
+    },
+    {
+      "id": 242,
+      "theme": "Vivre dans la société française",
+      "question": "Comment s'appellent les établissements scolaires que les élèves intègrent après l'école élémentaire ?",
+      "options": {
+        "A": "Le lycée",
+        "B": "Le collège",
+        "C": "L'université",
+        "D": "Le centre de formation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Après l'école élémentaire (primaire), les élèves intègrent le collège (de la 6ème à la 3ème, de 11 à 15 ans environ). Ensuite vient le lycée (de la 2nde à la Terminale), puis l'enseignement supérieur."
+    },
+    {
+      "id": 243,
+      "theme": "Vivre dans la société française",
+      "question": "En tant que parent d'élève, il est possible de :",
+      "options": {
+        "A": "Assister aux cours de son enfant à tout moment",
+        "B": "Élire des représentants au conseil d'école ou au conseil d'administration",
+        "C": "Imposer le programme scolaire à l'enseignant",
+        "D": "Demander le renvoi d'un enseignant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les parents d'élèves peuvent élire leurs représentants au conseil d'école (pour le primaire) ou au conseil d'administration (pour le collège et le lycée). Ces représentants participent aux décisions concernant la vie de l'établissement."
+    },
+    {
+      "id": 244,
+      "theme": "Vivre dans la société française",
+      "question": "Quelle instruction est prévue pour les enfants qui ne parlent pas français ?",
+      "options": {
+        "A": "Ils sont dispensés de scolarité jusqu'à ce qu'ils apprennent le français",
+        "B": "Ils sont scolarisés dans des classes spéciales appelées UPE2A",
+        "C": "Ils doivent suivre des cours particuliers avant d'intégrer une école",
+        "D": "Ils sont orientés vers des écoles privées spécialisées"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les enfants allophones (ne parlant pas ou peu français) sont accueillis dans des classes UPE2A (Unités Pédagogiques pour Élèves Allophones Arrivants). Ces dispositifs leur permettent d'apprendre le français tout en suivant une scolarisation adaptée."
+    },
+    {
+      "id": 245,
+      "theme": "Vivre dans la société française",
+      "question": "S'agissant de l'accueil des enfants en situation de handicap à l'école, laquelle des propositions est vraie ?",
+      "options": {
+        "A": "Les enfants handicapés sont obligatoirement orientés vers des établissements spécialisés",
+        "B": "L'école inclusive permet à chaque enfant handicapé d'être scolarisé en milieu ordinaire avec les aménagements nécessaires",
+        "C": "Les enfants handicapés n'ont pas accès à l'école publique",
+        "D": "L'accueil des enfants handicapés est laissé à la discrétion du directeur d'école"
+      },
+      "correctAnswer": "B",
+      "explanation": "En France, le principe de l'école inclusive garantit à chaque enfant en situation de handicap le droit d'être scolarisé en milieu ordinaire. Des aménagements sont mis en place (AESH - accompagnant des élèves en situation de handicap, matériel adapté, emploi du temps aménagé) selon les besoins de l'enfant."
+    },
+    {
+      "id": 246,
+      "theme": "Vivre dans la société française",
+      "question": "Depuis le 1er juillet 2021, quelle est la durée du congé paternité ?",
+      "options": {
+        "A": "3 jours",
+        "B": "11 jours",
+        "C": "28 jours",
+        "D": "60 jours"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depuis le 1er juillet 2021, le congé paternité et d'accueil de l'enfant a été allongé à 28 jours calendaires (contre 11 jours auparavant), dont 7 jours obligatoires immédiatement après la naissance. Il est indemnisé par l'Assurance maladie."
+    },
+    {
+      "id": 247,
+      "theme": "Vivre dans la société française",
+      "question": "Est-ce possible de punir physiquement ses enfants ?",
+      "options": {
+        "A": "Oui, les parents ont le droit de corriger physiquement leurs enfants",
+        "B": "Oui, mais uniquement de manière légère et sans laisser de traces",
+        "C": "Non, toute violence physique sur un enfant est interdite par la loi depuis 2019",
+        "D": "Oui, si le juge aux affaires familiales l'autorise"
+      },
+      "correctAnswer": "C",
+      "explanation": "Depuis la loi du 10 juillet 2019, toute forme de violence physique ou psychologique sur les enfants est interdite en France, y compris les châtiments corporels dits 'légers'. La loi interdit explicitement les punitions corporelles comme la fessée."
     }
   ]
 }
