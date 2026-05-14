@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"   # Commande de build
+  publish = ".next"           # Dossier à déployer
+
+[framework]
+  name = "Next.js"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"  # Plugin officiel Next.js pour Netlify
