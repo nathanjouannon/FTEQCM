@@ -2,9 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 import { PASSING_PERCENTAGE, QUESTIONS_PER_SESSION } from "@/constants";
 import questionsData from "@/data/questions.json";
-import { Answer, QCMSession, Question, UserAnswer } from "@/types";
-
-import { useLocalStorage } from "./useLocalStorage";
+import { Answer, Question, UserAnswer } from "@/types";
 
 interface QuestionsPayload {
   questions: Question[];
@@ -60,9 +58,6 @@ export const useQCM = (): UseQCMReturn => {
   const [isFinished, setIsFinished] = useState<boolean>(false);
   const [sessionStartTime, setSessionStartTime] = useState<string>(() => new Date().toISOString());
   const [durationSeconds, setDurationSeconds] = useState<number>(0);
-
-  // Historique persistant des sessions terminées.
-  const [, setSessions] = useLocalStorage<QCMSession[]>("qcm_sessions", []);
 
   // Référence du timer pour pouvoir l'arrêter proprement.
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -183,29 +178,6 @@ export const useQCM = (): UseQCMReturn => {
     setSessionStartTime(new Date().toISOString());
     setDurationSeconds(0);
   }, []);
-
-  // Sauvegarde la session dans localStorage dès qu'elle est terminée.
-  useEffect(() => {
-    if (!isFinished) {
-      return;
-    }
-
-    const finalScore = userAnswers.filter((answer) => answer.isCorrect).length;
-    const percentage =
-      questions.length === 0 ? 0 : Math.round((finalScore / questions.length) * 100);
-    const completedSession: QCMSession = {
-      id: Date.now().toString(),
-      date: sessionStartTime.split("T")[0] ?? sessionStartTime,
-      score: finalScore,
-      total: questions.length,
-      percentage,
-      passed: percentage >= PASSING_PERCENTAGE,
-      durationSeconds,
-      answers: userAnswers,
-    };
-
-    setSessions((previousSessions) => [...previousSessions, completedSession]);
-  }, [durationSeconds, isFinished, questions.length, sessionStartTime, setSessions, userAnswers]);
 
   return {
     questions,

@@ -26,14 +26,14 @@
 - [x] **Page d'accueil** : bouton démarrer, choix du mode (réponse immédiate ou fin de QCM), lien vers la progression
 - [x] **Page QCM** : affichage question par question, barre de progression, feedback immédiat si mode choisi
 - [x] **Page Résultats** : score final, correction détaillée, bouton nouveau QCM
-- [ ] **Page Progression** : courbe/graphique des scores dans le temps
+- [x] **Page Progression** : courbe/graphique des scores dans le temps
 
 ---
 
 ## Étape 5 — Polish & Tests
-- [ ] Vérifier la responsivité (mobile first)
-- [ ] Tester les cas limites (LocalStorage vide, premier QCM...)
-- [ ] Vérifier que le build Next.js est 100% statique (`next export`)
+- [x] Vérifier la responsivité (mobile first)
+- [x] Tester les cas limites (LocalStorage vide, premier QCM...)
+- [x] Vérifier que le build Next.js est 100% statique (`next export`)
 
 ---
 
