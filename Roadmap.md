@@ -9,7 +9,7 @@
 
 ## Étape 2 — Préparation des données
 - [x] Définir la structure TypeScript des questions
-- [ ] Créer le fichier `questions.json` avec les questions et les 4 réponses (1 correcte, 3 fausses)
+- [x] Créer le fichier `questions.json` avec les questions et les 4 réponses (1 correcte, 3 fausses)
 
 > ⚠️ C'est l'étape la plus longue. On va travailler ensemble pour générer les questions/réponses par blocs thématiques.
 
