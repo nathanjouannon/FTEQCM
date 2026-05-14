@@ -1,8 +1,8 @@
 ## Étape 1 — Setup du projet
-- [ ] Créer le repo GitHub
-- [ ] Initialiser le projet Next.js avec TypeScript
-- [ ] Installer les dépendances utiles (Tailwind CSS pour le style)
-- [ ] Configurer `netlify.toml`
+- [x] Créer le repo GitHub
+- [x] Initialiser le projet Next.js avec TypeScript
+- [x] Installer les dépendances utiles (Tailwind CSS pour le style)
+- [x] Configurer `netlify.toml`
 - [ ] Premier déploiement Netlify "vide" pour valider la config
 
 ---
