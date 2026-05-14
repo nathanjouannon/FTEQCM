@@ -1,0 +1,1200 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "theme": "Principes et valeurs de la République",
+      "question": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie...\"",
+      "options": {
+        "A": "...Le jour de gloire est arrivé !",
+        "B": "...Le temps du combat est venu !",
+        "C": "...L'heure de la victoire a sonné !",
+        "D": "...Le chant de la liberté résonne !"
+      },
+      "correctAnswer": "A",
+      "explanation": "La Marseillaise commence par : \"Allons enfants de la Patrie, Le jour de gloire est arrivé !\". Elle a été composée en 1792 par Rouget de Lisle."
+    },
+    {
+      "id": 2,
+      "theme": "Principes et valeurs de la République",
+      "question": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+      "options": {
+        "A": "Sa religion",
+        "B": "Ses compétences professionnelles",
+        "C": "Sa situation familiale",
+        "D": "Ses opinions politiques"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lors d'un entretien d'embauche, seules les questions en lien avec le poste sont autorisées. Les questions sur la religion, les opinions politiques ou la situation familiale sont discriminatoires et interdites par la loi."
+    },
+    {
+      "id": 3,
+      "theme": "Principes et valeurs de la République",
+      "question": "Déclarer ses revenus aux services fiscaux est :",
+      "options": {
+        "A": "Facultatif si on a peu de revenus",
+        "B": "Une démarche optionnelle",
+        "C": "Une obligation légale pour tous les résidents",
+        "D": "Obligatoire uniquement pour les fonctionnaires"
+      },
+      "correctAnswer": "C",
+      "explanation": "La déclaration de revenus est une obligation légale pour tous les résidents fiscaux en France, quels que soient leurs revenus."
+    },
+    {
+      "id": 4,
+      "theme": "Principes et valeurs de la République",
+      "question": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+      "options": {
+        "A": "Les impôts financent uniquement l'armée",
+        "B": "Les impôts financent les services publics comme l'éducation, la santé et la justice",
+        "C": "Les impôts sont reversés directement aux citoyens les plus pauvres",
+        "D": "Les impôts financent uniquement les salaires des fonctionnaires"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les impôts financent l'ensemble des services publics : éducation, santé, justice, sécurité, infrastructures, etc. C'est le principe de solidarité nationale."
+    },
+    {
+      "id": 5,
+      "theme": "Principes et valeurs de la République",
+      "question": "La liberté d'association est :",
+      "options": {
+        "A": "Le droit de se regrouper librement pour défendre des intérêts communs",
+        "B": "Le droit de s'associer uniquement à des partis politiques",
+        "C": "Le droit réservé aux citoyens français de créer des clubs sportifs",
+        "D": "Une liberté accordée uniquement aux entreprises"
+      },
+      "correctAnswer": "A",
+      "explanation": "La liberté d'association, garantie par la loi de 1901, permet à toute personne de se regrouper librement avec d'autres pour poursuivre un but commun, sans but lucratif."
+    },
+    {
+      "id": 6,
+      "theme": "Principes et valeurs de la République",
+      "question": "La liberté d'expression sur les réseaux sociaux en France est :",
+      "options": {
+        "A": "Totale et sans aucune limite",
+        "B": "Interdite pour les mineurs",
+        "C": "Libre mais encadrée par la loi, notamment contre la haine et la diffamation",
+        "D": "Réservée aux personnes majeures et diplômées"
+      },
+      "correctAnswer": "C",
+      "explanation": "La liberté d'expression est un droit fondamental mais elle a des limites légales : appels à la haine, diffamation, injures, apologie du terrorisme sont des délits même sur les réseaux sociaux."
+    },
+    {
+      "id": 7,
+      "theme": "Principes et valeurs de la République",
+      "question": "Lequel de ces prénoms évoque un symbole de la République ?",
+      "options": {
+        "A": "Napoléon",
+        "B": "Marianne",
+        "C": "Joséphine",
+        "D": "Louis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Marianne est le symbole de la République française. Elle représente la liberté et la raison, et son buste est présent dans toutes les mairies de France."
+    },
+    {
+      "id": 8,
+      "theme": "Principes et valeurs de la République",
+      "question": "Lequel de ces symboles représente la République française ?",
+      "options": {
+        "A": "La croix de Lorraine",
+        "B": "La fleur de lys",
+        "C": "Le coq gaulois",
+        "D": "Marianne"
+      },
+      "correctAnswer": "D",
+      "explanation": "Marianne est le symbole officiel de la République française. Elle figure sur les documents officiels, les timbres et les mairies."
+    },
+    {
+      "id": 9,
+      "theme": "Principes et valeurs de la République",
+      "question": "Où peut-on voir la devise de la République ?",
+      "options": {
+        "A": "Uniquement sur les billets de banque",
+        "B": "Sur les bâtiments publics et les documents officiels",
+        "C": "Uniquement dans les écoles",
+        "D": "Sur les panneaux d'entrée des villes"
+      },
+      "correctAnswer": "B",
+      "explanation": "La devise \"Liberté, Égalité, Fraternité\" est inscrite sur les bâtiments publics (mairies, écoles, tribunaux...) et figure sur les documents officiels de la République."
+    },
+    {
+      "id": 10,
+      "theme": "Principes et valeurs de la République",
+      "question": "Lesquels sont des symboles officiels de la République française ?",
+      "options": {
+        "A": "Le drapeau tricolore, la Marseillaise et Marianne",
+        "B": "Le drapeau tricolore, la croix de Lorraine et le coq",
+        "C": "Marianne, Napoléon et la Tour Eiffel",
+        "D": "La Marseillaise, le béret et la baguette"
+      },
+      "correctAnswer": "A",
+      "explanation": "Les symboles officiels de la République sont : le drapeau bleu, blanc, rouge ; la Marseillaise (hymne national) ; Marianne ; la devise \"Liberté, Égalité, Fraternité\" et le 14 juillet (fête nationale)."
+    },
+    {
+      "id": 11,
+      "theme": "Principes et valeurs de la République",
+      "question": "Peut-on brûler publiquement un drapeau français ?",
+      "options": {
+        "A": "Oui, c'est une forme d'expression politique protégée",
+        "B": "Non, c'est un délit puni par la loi",
+        "C": "Oui, si c'est lors d'une manifestation déclarée",
+        "D": "Non, mais il n'y a aucune sanction prévue"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brûler ou outrager publiquement le drapeau national est un délit en France, puni d'une amende et pouvant entraîner une peine d'emprisonnement."
+    },
+    {
+      "id": 12,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quand la Sécurité sociale a-t-elle été établie en France ?",
+      "options": {
+        "A": "En 1918",
+        "B": "En 1936",
+        "C": "En 1945",
+        "D": "En 1958"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Sécurité sociale a été créée en 1945, à la Libération, par ordonnance du Gouvernement provisoire. Elle couvre les risques maladie, vieillesse, famille et accidents du travail."
+    },
+    {
+      "id": 13,
+      "theme": "Principes et valeurs de la République",
+      "question": "Que commémore la fête nationale ?",
+      "options": {
+        "A": "La fin de la Seconde Guerre mondiale",
+        "B": "La naissance de la République",
+        "C": "La prise de la Bastille le 14 juillet 1789",
+        "D": "La signature de la Déclaration des droits de l'Homme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le 14 juillet commémore la prise de la Bastille en 1789, symbole du début de la Révolution française, et la Fête de la Fédération du 14 juillet 1790."
+    },
+    {
+      "id": 14,
+      "theme": "Principes et valeurs de la République",
+      "question": "Que porte Marianne sur la tête ?",
+      "options": {
+        "A": "Une couronne royale",
+        "B": "Un casque militaire",
+        "C": "Un bonnet phrygien",
+        "D": "Un voile blanc"
+      },
+      "correctAnswer": "C",
+      "explanation": "Marianne porte un bonnet phrygien, symbole de liberté hérité de l'Antiquité. Les esclaves affranchis portaient ce bonnet dans la Rome antique."
+    },
+    {
+      "id": 15,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+      "options": {
+        "A": "La Croix de Lorraine",
+        "B": "Le coq gaulois",
+        "C": "Marianne",
+        "D": "La fleur de lys"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le coq gaulois, symbole non officiel mais traditionnel de la France, figure sur les maillots de l'équipe de France de football et de nombreuses fédérations sportives."
+    },
+    {
+      "id": 16,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quelle est la devise de la République française ?",
+      "options": {
+        "A": "Honneur, Patrie, Valeur, Discipline",
+        "B": "Travail, Famille, Patrie",
+        "C": "Liberté, Égalité, Fraternité",
+        "D": "Union, Respect, Progrès"
+      },
+      "correctAnswer": "C",
+      "explanation": "\"Liberté, Égalité, Fraternité\" est la devise de la République française, inscrite dans la Constitution. Elle est née de la Révolution française."
+    },
+    {
+      "id": 17,
+      "theme": "Principes et valeurs de la République",
+      "question": "Qu'est-ce que la liberté d'association ?",
+      "options": {
+        "A": "Le droit de former librement un groupement avec d'autres personnes pour un but commun",
+        "B": "Le droit d'adhérer uniquement à des syndicats reconnus par l'État",
+        "C": "La liberté de s'associer à une entreprise commerciale",
+        "D": "Le droit exclusif des citoyens français de créer des partis politiques"
+      },
+      "correctAnswer": "A",
+      "explanation": "La liberté d'association, consacrée par la loi du 1er juillet 1901, permet à toute personne de créer ou rejoindre librement une association pour poursuivre un objectif commun."
+    },
+    {
+      "id": 18,
+      "theme": "Principes et valeurs de la République",
+      "question": "Qu'est-ce qu'une liberté ?",
+      "options": {
+        "A": "Un droit absolu qui ne peut jamais être limité",
+        "B": "Un droit qui permet à chacun d'agir selon sa volonté dans le respect de la loi et des autres",
+        "C": "Un privilège accordé par l'État aux citoyens méritants",
+        "D": "Un droit réservé aux personnes majeures"
+      },
+      "correctAnswer": "B",
+      "explanation": "Une liberté est un droit fondamental permettant à chacun d'agir selon sa volonté, mais dans le respect de la loi et des droits d'autrui. Aucune liberté n'est absolue."
+    },
+    {
+      "id": 19,
+      "theme": "Principes et valeurs de la République",
+      "question": "Sur quel document peut-on voir Marianne ?",
+      "options": {
+        "A": "Sur le passeport français",
+        "B": "Sur les billets d'euro",
+        "C": "Sur le permis de conduire",
+        "D": "Sur la carte d'identité française"
+      },
+      "correctAnswer": "D",
+      "explanation": "Marianne figure sur la carte nationale d'identité française ainsi que sur les timbres postaux et les documents officiels de la République."
+    },
+    {
+      "id": 20,
+      "theme": "Principes et valeurs de la République",
+      "question": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+      "options": {
+        "A": "Tous les citoyens ont exactement les mêmes revenus",
+        "B": "Tous les citoyens sont égaux en droits et en dignité devant la loi",
+        "C": "L'État garantit le même salaire pour tous",
+        "D": "Tous les citoyens ont les mêmes résultats scolaires"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'égalité républicaine signifie que tous les citoyens sont égaux en droits et en dignité devant la loi, sans distinction d'origine, de sexe, de religion ou d'opinion."
+    },
+    {
+      "id": 21,
+      "theme": "Principes et valeurs de la République",
+      "question": "Une personne peut-elle changer librement de religion en France ?",
+      "options": {
+        "A": "Non, on doit garder la religion de sa naissance",
+        "B": "Oui, la liberté de conscience garantit le droit de changer de religion ou de n'en avoir aucune",
+        "C": "Oui, mais uniquement après 18 ans",
+        "D": "Non, sauf autorisation administrative"
+      },
+      "correctAnswer": "B",
+      "explanation": "La liberté de conscience, garantie par la loi de 1905 et la Constitution, permet à chacun de choisir, changer ou abandonner une religion librement, sans aucune contrainte."
+    },
+    {
+      "id": 22,
+      "theme": "Principes et valeurs de la République",
+      "question": "Que peut faire un usager du service public dans une mairie ?",
+      "options": {
+        "A": "Exiger d'être reçu uniquement par un agent de sa religion",
+        "B": "Demander des documents administratifs, se marier civilement, déclarer une naissance",
+        "C": "Voter lors d'élections sans être inscrit sur les listes",
+        "D": "Demander le remboursement de ses soins médicaux"
+      },
+      "correctAnswer": "B",
+      "explanation": "La mairie est le lieu de nombreuses démarches administratives : état civil (naissance, mariage, décès), inscriptions électorales, documents d'identité, etc."
+    },
+    {
+      "id": 23,
+      "theme": "Principes et valeurs de la République",
+      "question": "En France, il est possible pour l'État de financer :",
+      "options": {
+        "A": "Des partis politiques religieux",
+        "B": "La construction d'édifices religieux",
+        "C": "Des services publics comme les écoles et les hôpitaux",
+        "D": "Des messes ou cérémonies religieuses officielles"
+      },
+      "correctAnswer": "C",
+      "explanation": "En vertu de la loi de 1905, l'État ne finance pas les cultes religieux. Il finance en revanche les services publics (éducation, santé, sécurité) ouverts à tous."
+    },
+    {
+      "id": 24,
+      "theme": "Principes et valeurs de la République",
+      "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+      "options": {
+        "A": "1789",
+        "B": "1881",
+        "C": "1905",
+        "D": "1958"
+      },
+      "correctAnswer": "C",
+      "explanation": "La loi du 9 décembre 1905 consacre la séparation des Églises et de l'État. Elle est le texte fondateur de la laïcité en France."
+    },
+    {
+      "id": 25,
+      "theme": "Principes et valeurs de la République",
+      "question": "Que dit la loi de 1905 ?",
+      "options": {
+        "A": "L'État reconnaît officiellement trois religions : catholique, protestante et juive",
+        "B": "La République assure la liberté de conscience et sépare les Églises de l'État",
+        "C": "La pratique religieuse est interdite dans l'espace public",
+        "D": "L'État finance équitablement tous les cultes reconnus"
+      },
+      "correctAnswer": "B",
+      "explanation": "La loi de 1905 pose deux principes fondamentaux : la liberté de conscience (chacun croit ce qu'il veut) et la séparation des Églises et de l'État (l'État ne reconnaît et ne finance aucun culte)."
+    },
+    {
+      "id": 26,
+      "theme": "Principes et valeurs de la République",
+      "question": "Que garantit le principe de laïcité ?",
+      "options": {
+        "A": "L'interdiction de toute religion sur le territoire français",
+        "B": "La liberté de conscience et l'égalité de tous devant la loi sans distinction de religion",
+        "C": "La supériorité de la religion catholique en tant que religion historique de la France",
+        "D": "L'obligation pour chaque citoyen de déclarer sa religion à l'État"
+      },
+      "correctAnswer": "B",
+      "explanation": "La laïcité garantit la liberté de croire ou de ne pas croire, et assure l'égalité de tous les citoyens devant la loi sans discrimination religieuse."
+    },
+    {
+      "id": 27,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quel jour célèbre-t-on officiellement la laïcité en France ?",
+      "options": {
+        "A": "Le 14 juillet",
+        "B": "Le 9 décembre",
+        "C": "Le 1er novembre",
+        "D": "Le 21 mars"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le 9 décembre est la journée nationale de la laïcité, en référence à la loi du 9 décembre 1905 de séparation des Églises et de l'État."
+    },
+    {
+      "id": 28,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?",
+      "options": {
+        "A": "Une grande croix visible autour du cou",
+        "B": "Un voile islamique",
+        "C": "Une kippa",
+        "D": "Aucun signe religieux ostensible"
+      },
+      "correctAnswer": "D",
+      "explanation": "La loi du 15 mars 2004 interdit le port de signes ou tenues manifestant ostensiblement une appartenance religieuse dans les écoles, collèges et lycées publics."
+    },
+    {
+      "id": 29,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?",
+      "options": {
+        "A": "La xénophobie",
+        "B": "Le racisme",
+        "C": "L'antisémitisme",
+        "D": "L'islamophobie"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'antisémitisme désigne spécifiquement les préjugés, discriminations et actes hostiles envers les personnes juives. C'est un délit en France."
+    },
+    {
+      "id": 30,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quel texte est considéré comme le texte fondateur de la laïcité ?",
+      "options": {
+        "A": "La Déclaration des droits de l'Homme et du citoyen de 1789",
+        "B": "La Constitution de 1958",
+        "C": "La loi de séparation des Églises et de l'État de 1905",
+        "D": "Le préambule de la Constitution de 1946"
+      },
+      "correctAnswer": "C",
+      "explanation": "La loi du 9 décembre 1905 est le texte fondateur de la laïcité en France. Elle établit la séparation des Églises et de l'État et garantit la liberté de conscience."
+    },
+    {
+      "id": 31,
+      "theme": "Principes et valeurs de la République",
+      "question": "Quelle institution française doit rester neutre en matière de religion ?",
+      "options": {
+        "A": "Les associations sportives",
+        "B": "Les entreprises privées",
+        "C": "Le service public et l'État",
+        "D": "Les médias privés"
+      },
+      "correctAnswer": "C",
+      "explanation": "En vertu du principe de laïcité, l'État et le service public doivent strictement rester neutres en matière de religion. Les agents du service public ne peuvent pas exprimer leurs convictions religieuses dans l'exercice de leurs fonctions."
+    },
+    {
+      "id": 32,
+      "theme": "Principes et valeurs de la République",
+      "question": "Qu'est-ce que la laïcité ?",
+      "options": {
+        "A": "L'interdiction de pratiquer une religion en France",
+        "B": "Le principe qui sépare l'État des religions et garantit la liberté de conscience pour tous",
+        "C": "L'obligation pour les citoyens de ne pas avoir de religion",
+        "D": "Le droit accordé à l'État de choisir la religion officielle du pays"
+      },
+      "correctAnswer": "B",
+      "explanation": "La laïcité est le principe selon lequel l'État est séparé des organisations religieuses, ne favorise aucun culte et garantit la liberté de conscience de chaque citoyen."
+    },
+    {
+      "id": 33,
+      "theme": "Principes et valeurs de la République",
+      "question": "À l'école, la charte de la laïcité permet de :",
+      "options": {
+        "A": "Interdire toute discussion sur les religions",
+        "B": "Rappeler les droits et devoirs de chacun dans le respect de la laïcité",
+        "C": "Obliger les élèves à déclarer leur religion",
+        "D": "Autoriser le port de signes religieux discrets"
+      },
+      "correctAnswer": "B",
+      "explanation": "La charte de la laïcité à l'école, affichée dans tous les établissements scolaires depuis 2013, rappelle les valeurs et les règles qui permettent de vivre ensemble dans le respect mutuel."
+    },
+    {
+      "id": 34,
+      "theme": "Principes et valeurs de la République",
+      "question": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?",
+      "options": {
+        "A": "Uniquement les directeurs d'établissements",
+        "B": "Tous les agents du service public dans l'exercice de leurs fonctions",
+        "C": "Uniquement les fonctionnaires d'État, pas les agents territoriaux",
+        "D": "Seulement les enseignants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tous les agents du service public, sans exception, ont l'obligation de neutralité religieuse dans l'exercice de leurs fonctions. Cela s'applique à l'ensemble de la fonction publique."
+    },
+    {
+      "id": 35,
+      "theme": "Principes et valeurs de la République",
+      "question": "Une personne déclare ne croire en aucun dieu. On peut dire :",
+      "options": {
+        "A": "C'est illégal en France",
+        "B": "Elle est athée, ce qui est un choix protégé par la liberté de conscience",
+        "C": "Elle doit être rééduquée par les services sociaux",
+        "D": "Elle ne peut pas être fonctionnaire"
+      },
+      "correctAnswer": "B",
+      "explanation": "La liberté de conscience, garantie par la laïcité, protège le droit de croire ou de ne pas croire. L'athéisme est un choix personnel parfaitement légal et protégé en France."
+    },
+    {
+  "id": 36,
+  "theme": "Principes et valeurs de la République",
+  "question": "La liberté d'association est :",
+  "options": {
+    "A": "Interdite sans autorisation préalable de l'État",
+    "B": "Réservée aux citoyens français uniquement",
+    "C": "Un droit fondamental permettant à toute personne de rejoindre ou créer une association",
+    "D": "Obligatoire pour exercer une activité bénévole"
+  },
+  "correctAnswer": "C",
+  "explanation": "La liberté d'association est un droit fondamental en France, reconnu par la loi de 1901. Elle permet à toute personne, française ou étrangère, de créer ou rejoindre librement une association."
+},
+{
+  "id": 37,
+  "theme": "Principes et valeurs de la République",
+  "question": "Lequel de ces symboles représente la République française ?",
+  "options": {
+    "A": "La croix de Lorraine",
+    "B": "Marianne",
+    "C": "La fleur de lys",
+    "D": "L'aigle impérial"
+  },
+  "correctAnswer": "B",
+  "explanation": "Marianne est le symbole officiel de la République française. Elle représente la liberté et la raison, et figure notamment dans toutes les mairies de France."
+},
+{
+  "id": 38,
+  "theme": "Principes et valeurs de la République",
+  "question": "Lesquels sont des symboles officiels de la République française ?",
+  "options": {
+    "A": "Le drapeau tricolore, la Marseillaise, la devise Liberté Égalité Fraternité",
+    "B": "Le drapeau tricolore, la croix de Lorraine, Marianne",
+    "C": "La Marseillaise, le béret, le coq gaulois",
+    "D": "La devise républicaine, la fleur de lys, Marianne"
+  },
+  "correctAnswer": "A",
+  "explanation": "Les symboles officiels de la République française sont : le drapeau bleu blanc rouge, la Marseillaise (hymne national), la devise Liberté Égalité Fraternité, Marianne et le 14 juillet (fête nationale)."
+},
+{
+  "id": 39,
+  "theme": "Principes et valeurs de la République",
+  "question": "Qu'est-ce qu'une liberté ?",
+  "options": {
+    "A": "Le droit de faire tout ce que l'on veut sans aucune limite",
+    "B": "Un droit fondamental permettant d'agir dans le respect des lois et sans nuire aux autres",
+    "C": "Un privilège accordé par l'État aux bons citoyens",
+    "D": "Un droit réservé aux citoyens français de naissance"
+  },
+  "correctAnswer": "B",
+  "explanation": "Une liberté est un droit fondamental qui permet à chacun d'agir librement, dans le cadre fixé par la loi et sans porter atteinte aux droits et libertés d'autrui."
+},
+{
+      "id": 40,
+      "theme": "Système institutionnel et politique",
+      "question": "Comment est désigné le Premier ministre ?",
+      "options": {
+        "A": "Il est élu au suffrage universel direct",
+        "B": "Il est nommé par le Président de la République",
+        "C": "Il est élu par l'Assemblée nationale",
+        "D": "Il est désigné par le Sénat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le Premier ministre est nommé par le Président de la République. Il dirige ensuite l'action du gouvernement."
+    },
+    {
+      "id": 41,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui peut se présenter aux élections présidentielles ?",
+      "options": {
+        "A": "Tout citoyen français âgé d'au moins 18 ans",
+        "B": "Tout citoyen français âgé d'au moins 18 ans ayant obtenu 500 parrainages d'élus",
+        "C": "Tout citoyen européen résidant en France depuis 5 ans",
+        "D": "Tout citoyen français âgé d'au moins 35 ans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pour se présenter à l'élection présidentielle, il faut être citoyen français, avoir au moins 18 ans, et obtenir 500 parrainages d'élus habilités répartis sur au moins 30 départements."
+    },
+    {
+      "id": 42,
+      "theme": "Système institutionnel et politique",
+      "question": "À qui appartient la souveraineté nationale ?",
+      "options": {
+        "A": "Au Président de la République",
+        "B": "Au Parlement",
+        "C": "Au peuple",
+        "D": "Au gouvernement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Selon l'article 3 de la Constitution de 1958, la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants élus ou par référendum."
+    },
+    {
+      "id": 43,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui est élu lors des élections municipales ?",
+      "options": {
+        "A": "Les députés",
+        "B": "Les conseillers régionaux",
+        "C": "Les conseillers municipaux et le maire",
+        "D": "Les préfets"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les élections municipales permettent d'élire les conseillers municipaux, qui élisent ensuite le maire parmi eux."
+    },
+    {
+      "id": 44,
+      "theme": "Système institutionnel et politique",
+      "question": "L'inscription sur les listes électorales est :",
+      "options": {
+        "A": "Automatique pour tous les citoyens majeurs depuis 2019",
+        "B": "Obligatoire sous peine d'amende",
+        "C": "Réservée aux personnes ayant un casier judiciaire vierge",
+        "D": "Facultative et doit être faite avant chaque élection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Depuis 2019, l'inscription sur les listes électorales est automatique pour les jeunes atteignant 18 ans. Les autres citoyens peuvent s'inscrire en mairie, sur internet ou via un organisme habilité."
+    },
+    {
+      "id": 45,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle condition est nécessaire pour voter aux élections présidentielles ?",
+      "options": {
+        "A": "Être citoyen français, majeur et inscrit sur les listes électorales",
+        "B": "Être citoyen français depuis au moins 10 ans",
+        "C": "Être citoyen européen résidant en France",
+        "D": "Avoir au moins 21 ans et être né en France"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pour voter à l'élection présidentielle, il faut être de nationalité française, avoir 18 ans révolus, jouir de ses droits civils et politiques, et être inscrit sur les listes électorales."
+    },
+    {
+      "id": 46,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle condition faut-il remplir pour être candidat aux élections municipales ?",
+      "options": {
+        "A": "Être citoyen français ou européen, âgé d'au moins 18 ans et domicilié dans la commune",
+        "B": "Être citoyen français uniquement, âgé d'au moins 21 ans",
+        "C": "Résider en France depuis au moins 5 ans",
+        "D": "Être fonctionnaire territorial"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pour se présenter aux élections municipales, il faut être ressortissant français ou d'un pays de l'Union européenne, être âgé d'au moins 18 ans, et avoir un lien avec la commune."
+    },
+    {
+      "id": 47,
+      "theme": "Système institutionnel et politique",
+      "question": "Parmi ces autorités, laquelle est élue ?",
+      "options": {
+        "A": "Le préfet",
+        "B": "Le maire",
+        "C": "Le directeur de l'hôpital public",
+        "D": "L'ambassadeur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le maire est élu par les conseillers municipaux, eux-mêmes élus au suffrage universel direct. Le préfet, lui, est nommé par le gouvernement."
+    },
+    {
+      "id": 48,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelles sont les fonctions du maire ?",
+      "options": {
+        "A": "Voter les lois et représenter l'État au niveau national",
+        "B": "Diriger les services de l'État dans le département",
+        "C": "Représenter l'État dans la commune, exécuter les décisions du conseil municipal et gérer les services communaux",
+        "D": "Nommer les juges et superviser les tribunaux locaux"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le maire a une double fonction : il est l'exécutif de la commune et représente l'État dans la commune (état civil, ordre public)."
+    },
+    {
+      "id": 49,
+      "theme": "Système institutionnel et politique",
+      "question": "Une personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales. Où peut-elle s'inscrire ?",
+      "options": {
+        "A": "À la préfecture de son département",
+        "B": "En mairie",
+        "C": "Au bureau de poste le plus proche",
+        "D": "Au commissariat de police"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pour s'inscrire sur les listes électorales sans internet, il est possible de se rendre directement en mairie, qui est le lieu officiel d'inscription."
+    },
+    {
+      "id": 50,
+      "theme": "Système institutionnel et politique",
+      "question": "À quel âge peut-on devenir électeur ?",
+      "options": {
+        "A": "16 ans",
+        "B": "21 ans",
+        "C": "18 ans",
+        "D": "20 ans"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, le droit de vote est accordé à partir de 18 ans. C'est la majorité civile et politique, fixée à cet âge depuis 1974."
+    },
+    {
+      "id": 51,
+      "theme": "Système institutionnel et politique",
+      "question": "En France, est-ce obligatoire de voter ?",
+      "options": {
+        "A": "Oui, pour tous les citoyens français",
+        "B": "Oui, mais uniquement pour les élections présidentielles",
+        "C": "Non, le vote est un droit mais pas une obligation",
+        "D": "Oui, pour tous les citoyens naturalisés"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, le vote est un droit et un acte civique, mais il n'est pas obligatoire. L'abstention est légale, contrairement à certains pays comme la Belgique ou l'Australie."
+    },
+    {
+      "id": 52,
+      "theme": "Système institutionnel et politique",
+      "question": "A-t-on le droit de ne pas respecter une loi ?",
+      "options": {
+        "A": "Oui, si on estime qu'elle est injuste",
+        "B": "Oui, dans les cas d'urgence personnelle",
+        "C": "Non, la loi s'applique à tous sans exception",
+        "D": "Oui, si on n'en a pas été informé"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nul n'est censé ignorer la loi. Elle s'applique à tous de manière égale sur le territoire français, et son non-respect expose à des sanctions pénales ou civiles."
+    },
+    {
+      "id": 53,
+      "theme": "Système institutionnel et politique",
+      "question": "Comment sont désignés les députés ?",
+      "options": {
+        "A": "Ils sont nommés par le Président de la République",
+        "B": "Ils sont élus au suffrage universel direct",
+        "C": "Ils sont élus par les conseillers régionaux",
+        "D": "Ils sont tirés au sort parmi les citoyens volontaires"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les députés sont élus au suffrage universel direct pour 5 ans lors des élections législatives. Ils siègent à l'Assemblée nationale et votent les lois."
+    },
+    {
+      "id": 54,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui vote les lois ?",
+      "options": {
+        "A": "Le Président de la République",
+        "B": "Le gouvernement",
+        "C": "Le Parlement (Assemblée nationale et Sénat)",
+        "D": "Le Conseil constitutionnel"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, les lois sont votées par le Parlement, composé de l'Assemblée nationale (577 députés) et du Sénat (348 sénateurs)."
+    },
+    {
+      "id": 55,
+      "theme": "Système institutionnel et politique",
+      "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+      "options": {
+        "A": "Le pouvoir militaire, le pouvoir civil et le pouvoir religieux",
+        "B": "Le pouvoir législatif, le pouvoir exécutif et le pouvoir judiciaire",
+        "C": "Le pouvoir local, le pouvoir régional et le pouvoir national",
+        "D": "Le pouvoir économique, le pouvoir politique et le pouvoir médiatique"
+      },
+      "correctAnswer": "B",
+      "explanation": "La séparation des pouvoirs, théorisée par Montesquieu, distingue : le pouvoir législatif (voter les lois), le pouvoir exécutif (appliquer les lois) et le pouvoir judiciaire (faire respecter les lois)."
+    },
+    {
+      "id": 56,
+      "theme": "Système institutionnel et politique",
+      "question": "Qu'est-ce que l'État de droit ?",
+      "options": {
+        "A": "Un État dans lequel le gouvernement peut agir librement sans contrainte juridique",
+        "B": "Un État dans lequel toutes les personnes et institutions sont soumises à la loi",
+        "C": "Un État dirigé uniquement par des juristes et des magistrats",
+        "D": "Un État dans lequel la Constitution peut être modifiée à tout moment"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'État de droit désigne un système dans lequel toutes les personnes, y compris les gouvernants, sont soumises au droit. Aucune autorité ne peut agir en dehors du cadre légal."
+    },
+    {
+      "id": 57,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelles sont les durées du mandat du conseil municipal et du maire ?",
+      "options": {
+        "A": "3 ans pour le conseil municipal, 3 ans pour le maire",
+        "B": "5 ans pour le conseil municipal, 5 ans pour le maire",
+        "C": "6 ans pour le conseil municipal, 6 ans pour le maire",
+        "D": "4 ans pour le conseil municipal, 2 ans pour le maire"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le conseil municipal et le maire sont élus pour 6 ans. Le maire est élu par les conseillers municipaux lors de la première réunion suivant les élections."
+    },
+    {
+      "id": 58,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui est élu lors des élections législatives ?",
+      "options": {
+        "A": "Les sénateurs",
+        "B": "Les conseillers régionaux",
+        "C": "Les députés",
+        "D": "Les maires"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les élections législatives permettent d'élire les 577 députés de l'Assemblée nationale pour un mandat de 5 ans."
+    },
+    {
+      "id": 59,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle est la durée du mandat du Président de la République française ?",
+      "options": {
+        "A": "4 ans",
+        "B": "7 ans",
+        "C": "6 ans",
+        "D": "5 ans"
+      },
+      "correctAnswer": "D",
+      "explanation": "Depuis la réforme constitutionnelle de 2000, le mandat du Président de la République est de 5 ans (quinquennat), renouvelable une seule fois."
+    },
+    {
+      "id": 60,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle est la durée du mandat des députés ?",
+      "options": {
+        "A": "4 ans",
+        "B": "6 ans",
+        "C": "3 ans",
+        "D": "5 ans"
+      },
+      "correctAnswer": "D",
+      "explanation": "Les députés sont élus pour 5 ans lors des élections législatives. Leur mandat peut être écourté en cas de dissolution de l'Assemblée nationale par le Président de la République."
+    },
+    {
+      "id": 61,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle est la durée du mandat des sénateurs ?",
+      "options": {
+        "A": "5 ans",
+        "B": "4 ans",
+        "C": "6 ans",
+        "D": "9 ans"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les sénateurs sont élus pour 6 ans au suffrage universel indirect (par les grands électeurs). Le Sénat est renouvelé par moitié tous les 3 ans."
+    },
+    {
+      "id": 62,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui dirige l'action du gouvernement ?",
+      "options": {
+        "A": "Le Président de la République",
+        "B": "Le Premier ministre",
+        "C": "Le ministre de l'Intérieur",
+        "D": "Le président de l'Assemblée nationale"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du gouvernement. Il est responsable de la coordination des ministères et de l'exécution des lois."
+    },
+    {
+      "id": 63,
+      "theme": "Système institutionnel et politique",
+      "question": "En France, est-ce possible d'adhérer à un parti politique ?",
+      "options": {
+        "A": "Non, les partis politiques sont interdits en France",
+        "B": "Oui, mais uniquement pour les citoyens français de naissance",
+        "C": "Oui, c'est un droit garanti par la Constitution",
+        "D": "Oui, mais uniquement à partir de 21 ans"
+      },
+      "correctAnswer": "C",
+      "explanation": "La liberté d'adhérer à un parti politique est garantie par l'article 4 de la Constitution. Les partis concourent à l'expression du suffrage et doivent respecter les principes de la démocratie."
+    },
+    {
+      "id": 64,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui sanctionne l'auteur d'un vol ?",
+      "options": {
+        "A": "La police nationale",
+        "B": "Le préfet du département",
+        "C": "Le tribunal judiciaire (le juge)",
+        "D": "Le maire de la commune"
+      },
+      "correctAnswer": "C",
+      "explanation": "En France, seul le pouvoir judiciaire (les tribunaux) a le pouvoir de sanctionner les infractions pénales comme le vol. C'est le principe de la séparation des pouvoirs."
+    },
+    {
+      "id": 65,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui gère les collèges publics ?",
+      "options": {
+        "A": "La commune",
+        "B": "L'État",
+        "C": "Le département",
+        "D": "La région"
+      },
+      "correctAnswer": "C",
+      "explanation": "Les collèges publics sont sous la responsabilité des conseils départementaux. Les communes gèrent les écoles primaires, les régions gèrent les lycées, et l'État finance les personnels enseignants."
+    },
+    {
+      "id": 66,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui gère les écoles primaires et maternelles publiques ?",
+      "options": {
+        "A": "Le département",
+        "B": "La commune",
+        "C": "La région",
+        "D": "L'État"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les communes sont responsables de la gestion des écoles primaires et maternelles publiques (bâtiments, entretien, fonctionnement). L'État prend en charge la rémunération des enseignants."
+    },
+    {
+      "id": 67,
+      "theme": "Système institutionnel et politique",
+      "question": "Comment sont désignés les maires ?",
+      "options": {
+        "A": "Ils sont nommés par le préfet",
+        "B": "Ils sont élus directement par les habitants de la commune",
+        "C": "Ils sont élus par les conseillers municipaux en leur sein",
+        "D": "Ils sont désignés par le Président de la République"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le maire est élu par les conseillers municipaux lors de la première réunion du conseil, après les élections municipales. Ce n'est donc pas une élection directe par les citoyens."
+    },
+    {
+      "id": 68,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle collectivité territoriale est responsable des transports régionaux ?",
+      "options": {
+        "A": "La commune",
+        "B": "Le département",
+        "C": "L'État",
+        "D": "La région"
+      },
+      "correctAnswer": "D",
+      "explanation": "La région est compétente pour organiser les transports régionaux, notamment les trains régionaux (TER). Elle gère également les lycées et le développement économique régional."
+    },
+    {
+      "id": 69,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle est l'une des voies possibles pour modifier la Constitution ?",
+      "options": {
+        "A": "Un vote de l'Assemblée nationale uniquement",
+        "B": "Un décret du Premier ministre",
+        "C": "Le référendum ou le vote du Congrès (Parlement réuni) à la majorité des 3/5",
+        "D": "Une décision du Conseil constitutionnel"
+      },
+      "correctAnswer": "C",
+      "explanation": "Selon l'article 89 de la Constitution, une révision constitutionnelle peut être adoptée soit par référendum, soit par le Congrès à la majorité des 3/5 des suffrages exprimés."
+    },
+    {
+      "id": 70,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui assure l'intérim du Président de la République en cas de décès ?",
+      "options": {
+        "A": "Le Premier ministre",
+        "B": "Le président de l'Assemblée nationale",
+        "C": "Le président du Sénat",
+        "D": "Le doyen d'âge du gouvernement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Selon l'article 7 de la Constitution, en cas de vacance de la présidence (décès, démission, empêchement définitif), c'est le président du Sénat qui assure l'intérim."
+    },
+    {
+      "id": 71,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel est le rôle du Conseil constitutionnel ?",
+      "options": {
+        "A": "Voter les lois en cas de désaccord entre l'Assemblée nationale et le Sénat",
+        "B": "Veiller à la conformité des lois à la Constitution et contrôler les élections",
+        "C": "Nommer les ministres et valider la composition du gouvernement",
+        "D": "Juger les crimes les plus graves commis sur le territoire français"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le Conseil constitutionnel veille à la conformité des lois à la Constitution. Il contrôle aussi la régularité des élections présidentielles, législatives et des référendums."
+    },
+    {
+      "id": 72,
+      "theme": "Système institutionnel et politique",
+      "question": "Quelle condition est obligatoire pour se présenter à l'élection présidentielle ?",
+      "options": {
+        "A": "Avoir exercé un mandat électif local",
+        "B": "Être parrainé par au moins 500 élus habilités",
+        "C": "Être membre d'un parti politique reconnu",
+        "D": "Avoir au moins 40 ans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pour se présenter à l'élection présidentielle, il est obligatoire de réunir 500 parrainages d'élus habilités provenant d'au moins 30 départements ou collectivités différents."
+    },
+    {
+      "id": 73,
+      "theme": "Système institutionnel et politique",
+      "question": "Combien y a-t-il de départements en France ?",
+      "options": {
+        "A": "96",
+        "B": "100",
+        "C": "101",
+        "D": "95"
+      },
+      "correctAnswer": "C",
+      "explanation": "La France compte 101 départements : 96 en métropole (dont la Corse) et 5 départements d'outre-mer (Guadeloupe, Martinique, Guyane, La Réunion, Mayotte)."
+    },
+    {
+      "id": 74,
+      "theme": "Système institutionnel et politique",
+      "question": "Comment est organisé le découpage administratif de la France ?",
+      "options": {
+        "A": "Provinces, cantons, communes",
+        "B": "Régions, départements, communes",
+        "C": "Territoires, arrondissements, quartiers",
+        "D": "Régions, préfectures, sous-préfectures"
+      },
+      "correctAnswer": "B",
+      "explanation": "La France est organisée en trois niveaux de collectivités territoriales : les régions (18), les départements (101) et les communes (environ 35 000)."
+    },
+    {
+      "id": 75,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui représente l'État dans un département ?",
+      "options": {
+        "A": "Le maire du chef-lieu",
+        "B": "Le président du conseil départemental",
+        "C": "Le préfet",
+        "D": "Le député de la première circonscription"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le préfet est le représentant de l'État dans le département. Nommé par le gouvernement, il est chargé d'y appliquer les politiques nationales et de maintenir l'ordre public."
+    },
+    {
+      "id": 76,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel est le rôle du Président de la République ?",
+      "options": {
+        "A": "Voter les lois et contrôler le Parlement",
+        "B": "Garantir le fonctionnement des institutions, être garant de l'indépendance nationale et arbitre des pouvoirs",
+        "C": "Diriger au quotidien l'action des ministères",
+        "D": "Gérer les collectivités territoriales"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selon l'article 5 de la Constitution, le Président veille au respect de la Constitution, assure le fonctionnement des pouvoirs publics, est garant de l'indépendance nationale et de l'intégrité du territoire."
+    },
+    {
+      "id": 77,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel est le rôle du Premier ministre ?",
+      "options": {
+        "A": "Présider le Conseil constitutionnel",
+        "B": "Représenter la France à l'étranger",
+        "C": "Diriger l'action du gouvernement, coordonner les ministres et assurer l'exécution des lois",
+        "D": "Présider les séances de l'Assemblée nationale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le Premier ministre dirige l'action du gouvernement (article 21 de la Constitution). Il coordonne les ministres, assure l'exécution des lois et est responsable devant l'Assemblée nationale."
+    },
+    {
+      "id": 78,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel est le rôle du Défenseur des droits ?",
+      "options": {
+        "A": "Défendre les intérêts de l'État devant les tribunaux",
+        "B": "Protéger les citoyens contre les manquements des services publics et les discriminations",
+        "C": "Superviser le bon déroulement des élections",
+        "D": "Contrôler la constitutionnalité des lois"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le Défenseur des droits est une autorité constitutionnelle indépendante. Il protège les droits des usagers des services publics, lutte contre les discriminations et défend les droits des enfants."
+    },
+    {
+      "id": 79,
+      "theme": "Système institutionnel et politique",
+      "question": "En quelle année la citoyenneté européenne a-t-elle été créée ?",
+      "options": {
+        "A": "1986",
+        "B": "1957",
+        "C": "1992",
+        "D": "2004"
+      },
+      "correctAnswer": "C",
+      "explanation": "La citoyenneté européenne a été créée par le traité de Maastricht en 1992. Elle permet à tout ressortissant d'un État membre d'être aussi citoyen de l'Union européenne."
+    },
+    {
+      "id": 80,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui a composé l'hymne de l'Union européenne ?",
+      "options": {
+        "A": "Wolfgang Amadeus Mozart",
+        "B": "Johann Sebastian Bach",
+        "C": "Ludwig van Beethoven",
+        "D": "Franz Schubert"
+      },
+      "correctAnswer": "C",
+      "explanation": "L'hymne européen est tiré de la 9e symphonie de Ludwig van Beethoven (1823), sur le texte de l'Ode à la joie de Friedrich Schiller. Il a été adopté comme hymne européen en 1972 par le Conseil de l'Europe."
+    },
+    {
+      "id": 81,
+      "theme": "Système institutionnel et politique",
+      "question": "Quand est célébrée la journée de l'Europe ?",
+      "options": {
+        "A": "Le 1er janvier",
+        "B": "Le 9 mai",
+        "C": "Le 25 mars",
+        "D": "Le 14 juillet"
+      },
+      "correctAnswer": "B",
+      "explanation": "La journée de l'Europe est célébrée le 9 mai, en commémoration de la déclaration Schuman du 9 mai 1950, qui est à l'origine de la construction européenne."
+    },
+    {
+      "id": 82,
+      "theme": "Système institutionnel et politique",
+      "question": "Où est le siège de la Banque centrale européenne ?",
+      "options": {
+        "A": "Paris (France)",
+        "B": "Bruxelles (Belgique)",
+        "C": "Francfort (Allemagne)",
+        "D": "Luxembourg"
+      },
+      "correctAnswer": "C",
+      "explanation": "La Banque centrale européenne (BCE) a son siège à Francfort, en Allemagne. Elle est responsable de la politique monétaire de la zone euro."
+    },
+    {
+      "id": 83,
+      "theme": "Système institutionnel et politique",
+      "question": "Où est le siège de la Commission européenne ?",
+      "options": {
+        "A": "Strasbourg (France)",
+        "B": "Luxembourg",
+        "C": "Amsterdam (Pays-Bas)",
+        "D": "Bruxelles (Belgique)"
+      },
+      "correctAnswer": "D",
+      "explanation": "La Commission européenne a son siège principal à Bruxelles, en Belgique. Elle est l'organe exécutif de l'Union européenne, chargée de proposer les lois européennes."
+    },
+    {
+      "id": 84,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui siège au Parlement européen ?",
+      "options": {
+        "A": "Les chefs d'État des pays membres",
+        "B": "Les ministres des affaires européennes de chaque pays",
+        "C": "Les députés européens élus par les citoyens de l'UE",
+        "D": "Les représentants des grandes entreprises européennes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le Parlement européen est composé de députés européens élus directement par les citoyens des États membres tous les 5 ans. Il vote les lois européennes et le budget de l'UE."
+    },
+    {
+      "id": 85,
+      "theme": "Système institutionnel et politique",
+      "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+      "options": {
+        "A": "25",
+        "B": "28",
+        "C": "30",
+        "D": "27"
+      },
+      "correctAnswer": "D",
+      "explanation": "Au 1er janvier 2025, l'Union européenne compte 27 États membres depuis le départ du Royaume-Uni (Brexit) effectif le 1er janvier 2021."
+    },
+    {
+      "id": 86,
+      "theme": "Système institutionnel et politique",
+      "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+      "options": {
+        "A": "1986",
+        "B": "1957",
+        "C": "1999",
+        "D": "1992"
+      },
+      "correctAnswer": "D",
+      "explanation": "Le traité de Maastricht a été signé le 7 février 1992 et est entré en vigueur le 1er novembre 1993. Il a fondé l'Union européenne et créé la citoyenneté européenne."
+    },
+    {
+      "id": 87,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel traité concerne la construction de l'Union européenne ?",
+      "options": {
+        "A": "Le traité de Versailles",
+        "B": "Le traité de Maastricht",
+        "C": "Le traité de Paris de 1783",
+        "D": "Le traité de Schengen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Le traité de Maastricht (1992) est le traité fondateur de l'Union européenne. Il a aussi posé les bases de la monnaie unique (euro) et renforcé la coopération européenne."
+    },
+    {
+      "id": 88,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel État a quitté l'Union européenne en 2020 ?",
+      "options": {
+        "A": "La Norvège",
+        "B": "La Suisse",
+        "C": "Le Royaume-Uni",
+        "D": "La Turquie"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le Royaume-Uni a officiellement quitté l'Union européenne le 31 janvier 2020 (Brexit), à la suite du référendum de juin 2016 où 51,9 % des Britanniques avaient voté en faveur du départ."
+    },
+    {
+      "id": 89,
+      "theme": "Système institutionnel et politique",
+      "question": "Quel est l'hymne de l'Union européenne ?",
+      "options": {
+        "A": "Le Chant des partisans",
+        "B": "L'Ode à la joie",
+        "C": "La Marseillaise européenne",
+        "D": "L'Hymne à la fraternité"
+      },
+      "correctAnswer": "B",
+      "explanation": "L'Ode à la joie, tirée de la 9e symphonie de Beethoven, est l'hymne officiel de l'Union européenne depuis 1985. Elle symbolise les idéaux de liberté, de paix et de solidarité."
+    },
+    {
+      "id": 90,
+      "theme": "Système institutionnel et politique",
+      "question": "De quoi est composé le drapeau européen ?",
+      "options": {
+        "A": "D'un fond bleu avec 12 étoiles dorées disposées en cercle",
+        "B": "D'un fond blanc avec une croix bleue",
+        "C": "D'un fond bleu avec autant d'étoiles que de pays membres",
+        "D": "De trois bandes verticales bleue, blanche et dorée"
+      },
+      "correctAnswer": "A",
+      "explanation": "Le drapeau européen est composé d'un fond bleu avec 12 étoiles dorées disposées en cercle. Les 12 étoiles symbolisent la perfection et l'unité, et non le nombre de pays membres."
+    },
+    {
+      "id": 91,
+      "theme": "Système institutionnel et politique",
+      "question": "Qui élit les députés européens ?",
+      "options": {
+        "A": "Les Parlements nationaux des États membres",
+        "B": "Les citoyens des États membres de l'Union européenne au suffrage universel direct",
+        "C": "Les chefs de gouvernement des États membres",
+        "D": "Le Conseil européen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Les députés européens sont élus directement par les citoyens des États membres de l'UE tous les 5 ans lors des élections européennes."
+    },
+    {
+      "id": 92,
+      "theme": "Système institutionnel et politique",
+      "question": "Où est le siège du Parlement européen ?",
+      "options": {
+        "A": "Bruxelles (Belgique) uniquement",
+        "B": "Francfort (Allemagne)",
+        "C": "Strasbourg (France), avec des sessions à Bruxelles",
+        "D": "Luxembourg"
+      },
+      "correctAnswer": "C",
+      "explanation": "Le siège officiel du Parlement européen est à Strasbourg (France), où se tiennent les sessions plénières mensuelles. Des travaux complémentaires ont lieu à Bruxelles et le secrétariat général est à Luxembourg."
+    }
+  ]
+}
