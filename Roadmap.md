@@ -3,7 +3,7 @@
 - [x] Initialiser le projet Next.js avec TypeScript
 - [x] Installer les dépendances utiles (Tailwind CSS pour le style)
 - [x] Configurer `netlify.toml`
-- [ ] Premier déploiement Netlify "vide" pour valider la config
+- [x] Premier déploiement Netlify "vide" pour valider la config
 
 ---
 
