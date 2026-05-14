@@ -17,13 +17,13 @@
 
 ## Étape 3 — Fondations du code
 - [x] Créer les types TypeScript (`Question`, `Score`, `QCMSession`...)
-- [ ] Créer le hook `useLocalStorage.ts`
-- [ ] Créer le hook `useQCM.ts` (sélection aléatoire, navigation, calcul du score)
+- [x] Créer le hook `useLocalStorage.ts`
+- [x] Créer le hook `useQCM.ts` (sélection aléatoire, navigation, calcul du score)
 
 ---
 
 ## Étape 4 — Développement des pages
-- [ ] **Page d'accueil** : bouton démarrer, choix du mode (réponse immédiate ou fin de QCM), lien vers la progression
+- [x] **Page d'accueil** : bouton démarrer, choix du mode (réponse immédiate ou fin de QCM), lien vers la progression
 - [ ] **Page QCM** : affichage question par question, barre de progression, feedback immédiat si mode choisi
 - [ ] **Page Résultats** : score final, correction détaillée, bouton nouveau QCM
 - [ ] **Page Progression** : courbe/graphique des scores dans le temps
