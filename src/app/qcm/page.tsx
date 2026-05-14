@@ -16,7 +16,7 @@ interface CurrentSessionResult {
   total: number;
   percentage: number;
   passed: boolean;
-  answers: UserAnswer[];
+  userAnswers: UserAnswer[];
   questions: Question[];
 }
 
@@ -81,7 +81,7 @@ export default function QCMPage() {
       total: score.total,
       percentage: score.percentage,
       passed: score.passed,
-      answers: userAnswers,
+      userAnswers,
       questions,
     };
 
