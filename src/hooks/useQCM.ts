@@ -191,20 +191,21 @@ export const useQCM = (): UseQCMReturn => {
     }
 
     const finalScore = userAnswers.filter((answer) => answer.isCorrect).length;
+    const percentage =
+      questions.length === 0 ? 0 : Math.round((finalScore / questions.length) * 100);
     const completedSession: QCMSession = {
       id: Date.now().toString(),
       date: sessionStartTime.split("T")[0] ?? sessionStartTime,
       score: finalScore,
       total: questions.length,
-      passed:
-        questions.length === 0
-          ? false
-          : Math.round((finalScore / questions.length) * 100) >= PASSING_PERCENTAGE,
+      percentage,
+      passed: percentage >= PASSING_PERCENTAGE,
+      durationSeconds,
       answers: userAnswers,
     };
 
     setSessions((previousSessions) => [...previousSessions, completedSession]);
-  }, [isFinished, questions.length, sessionStartTime, setSessions, userAnswers]);
+  }, [durationSeconds, isFinished, questions.length, sessionStartTime, setSessions, userAnswers]);
 
   return {
     questions,

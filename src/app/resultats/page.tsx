@@ -111,7 +111,9 @@ export default function ResultatsPage() {
       date: nowIso,
       score: parsedSession.score,
       total: parsedSession.total,
+      percentage: parsedSession.percentage,
       passed: parsedSession.passed,
+      durationSeconds: parsedSession.durationSeconds,
       answers: parsedSession.userAnswers,
     };
 
